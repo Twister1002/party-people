@@ -2,15 +2,30 @@
   list-style-type: none;
   padding: 0;
   margin: 0;
-  display: flex;
-  justify-content: center;
 }
 
 #set-days ul li {
-  padding: 1em 4em;
+  text-align: center;
+  padding: .5em;
 }
 
 #set-days ul li:hover {
   background-color: #c0c5ce;
   color: #000;
+}
+
+@media screen and (min-width: 720px) {
+  #set-days ul {
+    display: flex;
+    justify-content: center;
+  }
+  #set-days ul li {
+    padding: .5em 1em;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  #set-days ul li {
+    padding: 1em 2.5em;
+  }
 }

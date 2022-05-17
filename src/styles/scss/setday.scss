@@ -3,15 +3,37 @@
         list-style-type: none;
         padding: 0;
         margin: 0;
-        display: flex;
-        justify-content: center;
 
         li {
-            padding: 1em 4em;
+            text-align: center;
+            padding: .5em;
 
             &:hover {
                 background-color: lighten(#282c34, 60%);
                 color: #000;
+            }
+        }
+    }
+}
+
+@media screen and (min-width:720px) {
+    #set-days {
+        ul {
+            display: flex;
+            justify-content: center;
+
+            li {
+                padding: .5em 1em;
+            }
+        }
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    #set-days {
+        ul {
+            li {
+                padding: 1em 2.5em;
             }
         }
     }
