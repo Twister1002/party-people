@@ -91,9 +91,10 @@ const Modal = function({ setId, ...props }: ModalProps) {
                             <Checkmark />
                         </span>
                     </form>
-                </div>
-                <div id="modal-buttons">
-                    <button onClick={props.onModalClose}>Close</button>
+
+                    <div id="modal-buttons">
+                        <button onClick={props.onModalClose}>Close</button>
+                    </div>
                 </div>
             </>
         ), document.querySelector("#modal")!

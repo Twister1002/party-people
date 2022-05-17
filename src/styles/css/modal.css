@@ -20,3 +20,9 @@
   max-width: 25em;
   height: 50%;
 }
+
+#modal-buttons {
+  position: fixed;
+  bottom: 2em;
+  right: 4em;
+}
