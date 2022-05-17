@@ -1,0 +1,3151 @@
+{
+    "1": {
+        "Kinetic Field": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "22998",
+                "dataTime": "40",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2020/08/11181134/rvWRSIXD66ZwgYZWid5VbUhgK62Ahk20U5DmsDz9-150x150.jpeg",
+                "name": "Gem &amp; Tauri",
+                "timeFrame": "07:00 PM - 07:40 PM"
+            },
+            {
+                "setTimeId": "22965",
+                "dataTime": "55",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/12/12185743/Gd165f27GMEXSKk0cKklZhAQnSl3fY56cMZkdhWd-150x150.jpeg",
+                "name": "Autograf",
+                "timeFrame": "07:40 PM - 08:35 PM"
+            },
+            {
+                "setTimeId": "22970",
+                "dataTime": "55",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/12/13200854/5DBFJncAC5pAjfYKE4vOnxx29ae679MPOMHO3mR3-150x150.jpeg",
+                "name": "Cat Dealers",
+                "timeFrame": "08:35 PM - 09:30 PM"
+            },
+            {
+                "setTimeId": "22959",
+                "dataTime": "55",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/10/23174459/bbe0671c-0439-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Acraze",
+                "timeFrame": "09:30 PM - 10:25 PM"
+            },
+            {
+                "dataTime": "6"
+            },
+            {
+                "setTimeId": "22964",
+                "dataTime": "57",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/06/21003442/MbvRkRGaIR79SCiSPOGIvfmppFgGoOuu0VIxc2V6-150x150.jpeg",
+                "name": "ARMNHMR",
+                "timeFrame": "10:31 PM - 11:28 PM"
+            },
+            {
+                "dataTime": "3"
+            },
+            {
+                "setTimeId": "22961",
+                "dataTime": "58",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2016/11/11193647/kgROq9X9SAFAuUq8sQ408haki2xbGugmpgRl5Ysx-150x150.jpeg",
+                "name": "Alan Walker",
+                "timeFrame": "11:31 PM - 12:29 AM"
+            },
+            {
+                "dataTime": "3"
+            },
+            {
+                "setTimeId": "23057",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/25232225/hak2mppaisjKrQ5e9PJb7xRwNh1KJfnvBuwNRjqo-150x150.jpeg",
+                "name": "Seven Lions",
+                "timeFrame": "12:32 AM - 01:32 AM"
+            },
+            {
+                "dataTime": "7"
+            },
+            {
+                "setTimeId": "23049",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/03223244/e16cb080-cb30-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Porter Robinson (DJ Set)",
+                "timeFrame": "01:39 AM - 02:54 AM"
+            },
+            {
+                "dataTime": "3"
+            },
+            {
+                "setTimeId": "22992",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/12/26230400/lOnX7ZJ1P8SXcZb1UYdFzEhROqlnjWtfxpG3a7eu-150x150.jpeg",
+                "name": "Fisher",
+                "timeFrame": "02:57 AM - 04:12 AM"
+            },
+            {
+                "dataTime": "3"
+            },
+            {
+                "setTimeId": "23071",
+                "dataTime": "73",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/07/07004821/KUouJypqDLzJoWYTHuaAsda3YTnSpY3NLTehRtez-150x150.jpeg",
+                "name": "Timmy Trumpet",
+                "timeFrame": "04:15 AM - 05:28 AM"
+            }
+        ],
+        "Cosmic Meadow": [
+            {
+                "setTimeId": "23670",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/11/25192105/dyhP6mFcnZCRZFHHW1ZsL0M0PItcucSZLgrIR3Fz-150x150.jpeg",
+                "name": "Westend B2B Lucati",
+                "timeFrame": "05:00 PM - 06:00 PM"
+            },
+            {
+                "setTimeId": "23669",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/10/23174459/bbe0671c-0439-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Acraze",
+                "timeFrame": "06:00 PM - 07:00 PM"
+            },
+            {
+                "setTimeId": "23040",
+                "dataTime": "50",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/03/07225422/73d00bac-27c1-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Nitepunk",
+                "timeFrame": "07:00 PM - 07:50 PM"
+            },
+            {
+                "setTimeId": "23081",
+                "dataTime": "55",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2016/11/04014553/e0fc2926-cb4b-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "UNiiQU3",
+                "timeFrame": "07:50 PM - 08:45 PM"
+            },
+            {
+                "dataTime": "5"
+            },
+            {
+                "setTimeId": "22987",
+                "dataTime": "55",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/12/28014710/ffbc7aee-677f-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Evan Giia",
+                "timeFrame": "08:50 PM - 09:45 PM"
+            },
+            {
+                "dataTime": "5"
+            },
+            {
+                "setTimeId": "23020",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/02/10214704/KFZ7S70oJQhSrDQwHU1qzbxOhDdutRrVBe0r24mf-150x150.jpeg",
+                "name": "k?d",
+                "timeFrame": "09:50 PM - 10:50 PM"
+            },
+            {
+                "setTimeId": "23031",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/06231251/sk6O2Jua2h8pQ1RhRGzXkT2NWvXfOiNDzh4MksNi-150x150.jpeg",
+                "name": "Madeon (DJ Set)",
+                "timeFrame": "10:50 PM - 11:50 PM"
+            },
+            {
+                "dataTime": "20"
+            },
+            {
+                "setTimeId": "23000",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/11/25192102/zl5y6pSpngebHsrI262mGBKD9EAliklIajyqQbAx-150x150.jpeg",
+                "name": "Gigantic NGHTMRE",
+                "timeFrame": "12:10 AM - 01:10 AM"
+            },
+            {
+                "dataTime": "20"
+            },
+            {
+                "setTimeId": "22980",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/04/19234904/esS7OuvceLcfuN6lGugGUWaNFblSnrWpyyrkHY2U-150x150.jpeg",
+                "name": "Diesel",
+                "timeFrame": "01:30 AM - 02:30 AM"
+            },
+            {
+                "setTimeId": "23019",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2016/04/19160135/bca3bf94-30f5-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "JSTJR",
+                "timeFrame": "02:30 AM - 03:30 AM"
+            },
+            {
+                "setTimeId": "23043",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/11/11043421/3U5xHBGIoAzRqwMaZjQ8In7fxjT6Vi7XyVBoV8WR-150x150.jpeg",
+                "name": "Nitti Gritti B2B Wuki",
+                "timeFrame": "03:30 AM - 04:30 AM"
+            },
+            {
+                "setTimeId": "23092",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/12/26183205/a2373694-a6bd-11eb-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "WHIPPED CREAM",
+                "timeFrame": "04:30 AM - 05:30 AM"
+            }
+        ],
+        "Circuit Grounds": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "22963",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2020/02/19032842/gAj4Rhcnyb1IaF6DmliIq4MW38HYZTYXC5iD9G3k-150x150.jpeg",
+                "name": "Ann Clue",
+                "timeFrame": "07:00 PM - 08:00 PM"
+            },
+            {
+                "setTimeId": "23073",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/06/28001508/WAEvbn9NyFL2JMr3N3XA9IhqAGMIl79FIcT7ATiX-150x150.jpeg",
+                "name": "Tinlicker",
+                "timeFrame": "08:00 PM - 09:00 PM"
+            },
+            {
+                "setTimeId": "23044",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/06/06192550/OipUFHoj27HoV2cxlPsOOcDIKlC3XtR2Esm5l1nu-150x150.jpeg",
+                "name": "Nora En Pure",
+                "timeFrame": "09:00 PM - 10:15 PM"
+            },
+            {
+                "setTimeId": "23037",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/08/07010040/TUOSPvy5c2BSZ4MC9K0NWzn1qyiJofpCtiFJrExN-150x150.jpeg",
+                "name": "Meduza",
+                "timeFrame": "10:15 PM - 11:30 PM"
+            },
+            {
+                "setTimeId": "22972",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/04014153/4c9014aa-cb4b-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Chris Lake",
+                "timeFrame": "11:30 PM - 12:45 AM"
+            },
+            {
+                "setTimeId": "22986",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/23093331/e09FXpKlGiacWT0m0T6H231dt5EMN1oIbFUDho2N-150x150.jpeg",
+                "name": "Eric Prydz",
+                "timeFrame": "12:45 AM - 02:00 AM"
+            },
+            {
+                "setTimeId": "22968",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/06/17230027/MaR57O3oH2i2HdUoqvDju3gW9F6W80dRsqgcZmxH-150x150.jpeg",
+                "name": "Boris Brejcha",
+                "timeFrame": "02:00 AM - 03:15 AM"
+            },
+            {
+                "setTimeId": "22971",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/02/22172218/Q9bW8OSZghD2zMtUihdAgC3GNAkRGtAI6poJCt56-150x150.jpeg",
+                "name": "Charlotte de Witte",
+                "timeFrame": "03:15 AM - 04:30 AM"
+            },
+            {
+                "setTimeId": "23069",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/03/18175414/A0kQaDNzjWZEfsCetQA6CcAAg9SMngvHwkSromio-150x150.jpeg",
+                "name": "Testpilot",
+                "timeFrame": "04:30 AM - 05:30 AM"
+            }
+        ],
+        "Neon Garden": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "23058",
+                "dataTime": "90",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/11/25192112/atCa1dsj1cRsXEISXEW1mY3y54iumzGwi1ZyzJg6-150x150.jpeg",
+                "name": "Sinopoli B2B Danyelino",
+                "timeFrame": "07:00 PM - 08:30 PM"
+            },
+            {
+                "setTimeId": "23012",
+                "dataTime": "90",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/07/09001049/lVeqPqvfw8fWaDUthg3kxSiYfZeRCSZKiV0RjV85-150x150.jpeg",
+                "name": "Jayda G",
+                "timeFrame": "08:30 PM - 10:00 PM"
+            },
+            {
+                "setTimeId": "22978",
+                "dataTime": "90",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/02/03214434/45c4d6f2-8536-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Dennis Cruz",
+                "timeFrame": "10:00 PM - 11:30 PM"
+            },
+            {
+                "setTimeId": "22983",
+                "dataTime": "90",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/04/22001620/1loaUpTaTDj7FsgOgiJaQ9NjT5oINkYvh9TTKDAa-150x150.jpeg",
+                "name": "Dom Dolla",
+                "timeFrame": "11:30 PM - 01:00 AM"
+            },
+            {
+                "setTimeId": "23004",
+                "dataTime": "90",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/06/27233436/6JvZZmfyBqZRqE9vBu4rcnnL2NOAgAtUAdohwfPx-150x150.jpeg",
+                "name": "Honey Dijon",
+                "timeFrame": "01:00 AM - 02:30 AM"
+            },
+            {
+                "setTimeId": "23065",
+                "dataTime": "90",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/09205141/M6ONQiLi9SOdw9ITD2dXRIWuuJUbZzFgXN8s4lmW-150x150.jpeg",
+                "name": "Tale Of Us",
+                "timeFrame": "02:30 AM - 04:00 AM"
+            },
+            {
+                "setTimeId": "22966",
+                "dataTime": "90",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/06/17080339/40eb03a0-051a-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Ben Böhmer (Live)",
+                "timeFrame": "04:00 AM - 05:30 AM"
+            }
+        ],
+        "Basspod": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "22989",
+                "dataTime": "50",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/11/25192130/LwgxW7c9XAFmJJGgQDq94oYBgAIB2DJlSpjwOUzz-150x150.jpeg",
+                "name": "Fallen B2B Richter",
+                "timeFrame": "07:00 PM - 07:50 PM"
+            },
+            {
+                "setTimeId": "23013",
+                "dataTime": "50",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2016/02/11010143/aPVDr3JfUIhRongo5yE9VsT7TjkcUS71x6LBRrcp-150x150.jpeg",
+                "name": "Jessica Audiffred",
+                "timeFrame": "07:50 PM - 08:40 PM"
+            },
+            {
+                "setTimeId": "22962",
+                "dataTime": "50",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/11/25192126/m0bv8PRtAie1hGhzdD10h0OYTgrNoPTyoVEo59yX-150x150.jpeg",
+                "name": "Alix Perez B2B IMANU",
+                "timeFrame": "08:40 PM - 09:30 PM"
+            },
+            {
+                "setTimeId": "23028",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2020/09/28050216/iZZvX3nmcPBoLwxNkr6eIIW1PToY8rszCuP8CgCQ-150x150.jpeg",
+                "name": "Macky Gee",
+                "timeFrame": "09:30 PM - 10:30 PM"
+            },
+            {
+                "setTimeId": "22981",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/11/25192122/BzGTZCkwGxMPx2JGwdQZJ6yf7pji2zr71rCWsMfq-150x150.jpeg",
+                "name": "Doctor P B2B FuntCase (Classics Set)",
+                "timeFrame": "10:30 PM - 11:30 PM"
+            },
+            {
+                "setTimeId": "23055",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2016/06/07002103/f9TAq3HkNRNBaZWaoLZP8LWHY8HitBkLcU3hhw4o-150x150.jpeg",
+                "name": "Riot Ten",
+                "timeFrame": "11:30 PM - 12:30 AM"
+            },
+            {
+                "setTimeId": "23064",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/02/06234236/h39Qv4jF4gb9LAwt8Y73MGQxEhfE0wYcBcuGKJtW-150x150.jpeg",
+                "name": "Svdden Death",
+                "timeFrame": "12:30 AM - 01:30 AM"
+            },
+            {
+                "setTimeId": "22993",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/04/30181004/1709cfd6-9183-11eb-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "G Jones",
+                "timeFrame": "01:30 AM - 02:30 AM"
+            },
+            {
+                "setTimeId": "22997",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/06/12212146/Nz2xcGiXI0CjZvyQQUrH3zVGa9Emv6OzRjFKHiIv-150x150.jpeg",
+                "name": "Ganja White Night",
+                "timeFrame": "02:30 AM - 03:30 AM"
+            },
+            {
+                "setTimeId": "23062",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/11/25192117/l7CWSvCNytsyKL3wfOqRl8Ws1sYyxBfcM9oHC7Yz-150x150.jpeg",
+                "name": "Sub Focus &amp; Wilkinson present: Portals",
+                "timeFrame": "03:30 AM - 04:30 AM"
+            },
+            {
+                "setTimeId": "23022",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/04/25222547/13dff848-bda8-11eb-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Kai Wachi",
+                "timeFrame": "04:30 AM - 05:30 AM"
+            }
+        ],
+        "Wasteland": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "23025",
+                "dataTime": "50",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/03/07212609/27236cb4-9e5d-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "LLLLNNNN",
+                "timeFrame": "07:00 PM - 07:50 PM"
+            },
+            {
+                "setTimeId": "23061",
+                "dataTime": "50",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/11/06000806/8e16f832-3e95-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "SOREN",
+                "timeFrame": "07:50 PM - 08:40 PM"
+            },
+            {
+                "setTimeId": "23048",
+                "dataTime": "50",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/03/07214437/9e3586b4-9e5f-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Omar Santana",
+                "timeFrame": "08:40 PM - 09:30 PM"
+            },
+            {
+                "setTimeId": "22960",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/06/20234635/BXA6CTGaYSiGwY2XoDNYcf75IrgsOT1WI2YhCDa9-150x150.jpeg",
+                "name": "Adrenalize",
+                "timeFrame": "09:30 PM - 10:30 PM"
+            },
+            {
+                "setTimeId": "23026",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/06/10203608/SeaQn05Hi7CSfowX8XNoF0PSljYvKUkE39Js0wxm-150x150.jpeg",
+                "name": "LNY TNZ",
+                "timeFrame": "10:30 PM - 11:30 PM"
+            },
+            {
+                "setTimeId": "22958",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/11/25182821/YDAIziabJdHQm4ikWIBcbIbJNOwFtZo1uLJ2sjvx-150x150.jpeg",
+                "name": "Audiofreq, Code Black &amp; Toneshifterz present: 3 Blokes",
+                "timeFrame": "11:30 PM - 12:30 AM"
+            },
+            {
+                "setTimeId": "22975",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/07203801/8e0b695a-b6b2-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Darren Styles",
+                "timeFrame": "12:30 AM - 01:30 AM"
+            },
+            {
+                "setTimeId": "23075",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/04/07005411/JQQw7cnFb1IL90DzbGDPXDAJ0zcgTe3PrRhzcg5r-150x150.jpeg",
+                "name": "TNT",
+                "timeFrame": "01:30 AM - 02:30 AM"
+            },
+            {
+                "setTimeId": "23079",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/11/14004144/8NrSJnmyTYJvbYoFcR3nsJUX5I1Tju1htnC0VXSe-150x150.jpeg",
+                "name": "Tweekacore",
+                "timeFrame": "02:30 AM - 03:30 AM"
+            },
+            {
+                "setTimeId": "22976",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/12/11003534/QMtngPcF60cO2EJBgK9XU1ftTkTrrsanyrUf60DB-150x150.jpeg",
+                "name": "Deadly Guns",
+                "timeFrame": "03:30 AM - 04:30 AM"
+            },
+            {
+                "setTimeId": "23030",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/04/19020321/main-150x150.jpg",
+                "name": "Mad Dog",
+                "timeFrame": "04:30 AM - 05:30 AM"
+            }
+        ],
+        "Quantum Valley": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "23038",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/12230148/whh4cgF3HjroucPf8TxItViMpg1wSfitv9ZnFyXz-150x150.jpeg",
+                "name": "Mr. Brooks",
+                "timeFrame": "07:00 PM - 08:00 PM"
+            },
+            {
+                "setTimeId": "23052",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/01/03184041/95ec2d86-6cc4-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Pretty Pink",
+                "timeFrame": "08:00 PM - 09:00 PM"
+            },
+            {
+                "setTimeId": "23017",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/04/21011257/9b6e7210-a23e-11eb-b991-0ee6b8365494-150x150.jpg",
+                "name": "Jorza",
+                "timeFrame": "09:00 PM - 10:00 PM"
+            },
+            {
+                "setTimeId": "23068",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2020/05/07030811/7BfmaWjLC5v0XyRjXvU4NAo5i77qLK6tQZqqhZTo-150x150.jpeg",
+                "name": "Tempo Giusto",
+                "timeFrame": "10:00 PM - 11:00 PM"
+            },
+            {
+                "setTimeId": "23003",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/03/11151943/main-150x150.jpg",
+                "name": "Giuseppe Ottaviani Live 3.0",
+                "timeFrame": "11:00 PM - 12:00 AM"
+            },
+            {
+                "setTimeId": "22995",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/09011126/YVlgsC7y95Rwxca1EUaeOo5oOyPoDUs5hQLKIHsZ-150x150.jpeg",
+                "name": "Gabriel &amp; Dresden",
+                "timeFrame": "12:00 AM - 01:00 AM"
+            },
+            {
+                "setTimeId": "23009",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/02/11011338/main-150x150.jpg",
+                "name": "Ilan Bluestone",
+                "timeFrame": "01:00 AM - 02:15 AM"
+            },
+            {
+                "setTimeId": "22973",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/01200308/88a364da-22f2-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Cosmic Gate",
+                "timeFrame": "02:15 AM - 03:30 AM"
+            },
+            {
+                "setTimeId": "23016",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/11142213/main-150x150.jpg",
+                "name": "John O'Callaghan",
+                "timeFrame": "03:30 AM - 04:30 AM"
+            },
+            {
+                "setTimeId": "23094",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/07/06224036/204df1ec-deab-11eb-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "XiJaro &amp; Pitch",
+                "timeFrame": "04:30 AM - 05:30 AM"
+            }
+        ],
+        "Stereo Bloom": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "23034",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/06/11184756/c539d34a-cae4-11eb-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Mary Droppinz",
+                "timeFrame": "07:00 PM - 08:00 PM"
+            },
+            {
+                "setTimeId": "22969",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2020/09/29214033/4a9e430c-029c-11eb-b991-0ee6b8365494-150x150.jpg",
+                "name": "Capozzi",
+                "timeFrame": "08:00 PM - 09:00 PM"
+            },
+            {
+                "setTimeId": "23671",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/02/22190909/UzwAbUYx95WmRIQvEVU1bbqicIfptjUU13xkbFLL-150x150.jpeg",
+                "name": "Boston Bun",
+                "timeFrame": "09:00 PM - 10:15 PM"
+            },
+            {
+                "setTimeId": "23086",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/12/16024700/AV00x8fnWCBjPdn7FAQetOFm14vKSIAj7oPEm8PK-150x150.jpeg",
+                "name": "Volac",
+                "timeFrame": "10:15 PM - 11:30 PM"
+            },
+            {
+                "setTimeId": "23010",
+                "dataTime": "90",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/03/29003035/e49fc518-9025-11eb-b991-0ee6b8365494-150x150.jpg",
+                "name": "Jauz: Off the Deep End",
+                "timeFrame": "11:30 PM - 01:00 AM"
+            },
+            {
+                "setTimeId": "23035",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/11/25182829/5BwZqhq63R3xiOwbefMLrJt72IO4ToEHkMGwqGN9-150x150.jpeg",
+                "name": "Matroda B2B Bleu Clair",
+                "timeFrame": "01:00 AM - 02:15 AM"
+            },
+            {
+                "setTimeId": "23087",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/11/25192138/SDGUR5pMQn097poo9lMgVb7HrEdYzyII9nBnlqeu-150x150.jpeg",
+                "name": "Westend B2B Black V Neck",
+                "timeFrame": "02:15 AM - 03:30 AM"
+            },
+            {
+                "setTimeId": "23006",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/02/10223358/679bff4a-8ac1-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Hugel",
+                "timeFrame": "03:30 AM - 04:30 AM"
+            },
+            {
+                "setTimeId": "23047",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2020/02/05233342/b783e9cc-cccb-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Nostalgix",
+                "timeFrame": "04:30 AM - 05:30 AM"
+            }
+        ],
+        "Bionic Jungle": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "23961",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2016/06/24174631/wQQdDiQLZDpBUj8wIcCtzL7GkUxLo203knuSHqUR-150x150.jpeg",
+                "name": "Masha Mar",
+                "timeFrame": "07:00 PM - 08:15 PM"
+            },
+            {
+                "setTimeId": "23960",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/11/16184756/uV2wg8mr8AoIysWjXm5xqxTgI7E4xjTCh9xqK4s4-150x150.jpeg",
+                "name": "Corey Sizemore B2B Richie Panic",
+                "timeFrame": "08:15 PM - 09:30 PM"
+            },
+            {
+                "setTimeId": "23959",
+                "dataTime": "120",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/12/20202403/qn55UjO9LOdddLKP3Wr9XNltCTKZRVzkDZHRPW4e-150x150.jpeg",
+                "name": "Marques Wyatt",
+                "timeFrame": "09:30 PM - 11:30 PM"
+            },
+            {
+                "setTimeId": "23958",
+                "dataTime": "120",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/10214611/012c2be8-b1d9-11eb-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Carl Craig",
+                "timeFrame": "11:30 PM - 01:30 AM"
+            },
+            {
+                "setTimeId": "23957",
+                "dataTime": "120",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/05/23181825/ycjXmaCzhJsj5NIAYjDgJ23XLlVdTCVrEQBsLZaQ-150x150.jpeg",
+                "name": "Gene Farris",
+                "timeFrame": "01:30 AM - 03:30 AM"
+            },
+            {
+                "setTimeId": "23956",
+                "dataTime": "120",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2020/07/13180902/jrGrokfRVC32n0tASqElvAEqh457XXkLUxedItMt-150x150.jpeg",
+                "name": "DJ Holographic",
+                "timeFrame": "03:30 AM - 05:30 AM"
+            }
+        ],
+        "Parliament Art Car": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "23969",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/05/16234001/c89f3ec0-d01b-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "RachEP",
+                "timeFrame": "07:00 PM - 08:15 PM"
+            },
+            {
+                "setTimeId": "23968",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/05/10042729/731f2cb4-d019-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "ANATTA",
+                "timeFrame": "08:15 PM - 09:30 PM"
+            },
+            {
+                "setTimeId": "23967",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/05/10043203/141b6efc-d01a-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "The Archer",
+                "timeFrame": "09:30 PM - 10:45 PM"
+            },
+            {
+                "setTimeId": "23966",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/11/04225325/f08de792-cbfc-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Qrion",
+                "timeFrame": "10:45 PM - 12:00 AM"
+            },
+            {
+                "setTimeId": "23965",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/01/03184041/95ec2d86-6cc4-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Pretty Pink",
+                "timeFrame": "12:00 AM - 01:00 AM"
+            },
+            {
+                "setTimeId": "23964",
+                "dataTime": "90",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/16003633/2c58c51a-d4b0-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Sultan + Shepard",
+                "timeFrame": "01:00 AM - 02:30 AM"
+            },
+            {
+                "setTimeId": "23963",
+                "dataTime": "90",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/10/14223659/309673c0-2d3f-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Neon Deluz",
+                "timeFrame": "02:30 AM - 04:00 AM"
+            },
+            {
+                "setTimeId": "23962",
+                "dataTime": "90",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/05/10043618/ae2edda8-d01a-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Burko",
+                "timeFrame": "04:00 AM - 05:30 AM"
+            }
+        ],
+        "Forest House Art Car": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "23979",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/09/16201336/hAFrIkJpSJGbmAaZkXF2jVXH96DKGFw2NxbKbclJ-150x150.jpeg",
+                "name": "S-Doobie",
+                "timeFrame": "07:00 PM - 08:15 PM"
+            },
+            {
+                "setTimeId": "23978",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/01/09193443/zlKbWIMjidUTp43Ob2j52nT7R7ehMUxkvcqlH2pQ-150x150.jpeg",
+                "name": "Soothslayer",
+                "timeFrame": "08:15 PM - 09:30 PM"
+            },
+            {
+                "setTimeId": "23977",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/08/24002840/27216534-0472-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Justin Hawkes",
+                "timeFrame": "09:30 PM - 10:45 PM"
+            },
+            {
+                "setTimeId": "23976",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/11/16184803/0z3RPJJ16KAfQCsPmjYyNxovMphBdXjbDgQdWm5h-150x150.jpeg",
+                "name": "Fallen B2B Richter B2B Fury B2B Nightstalker with MC Dino + MC XYZ",
+                "timeFrame": "10:45 PM - 12:00 AM"
+            },
+            {
+                "setTimeId": "23975",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/06/05235107/S3EPXnjuI0W3n3g5xmOxbGPupTbR1YuksHXZuqim-150x150.jpeg",
+                "name": "Evol Intent",
+                "timeFrame": "12:00 AM - 01:00 AM"
+            },
+            {
+                "setTimeId": "23974",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/08/19213808/UMJy7oghbDoCw4tHaBjFchv0TP6x0BYysaUlOztz-150x150.jpeg",
+                "name": "Muzz",
+                "timeFrame": "01:00 AM - 02:15 AM"
+            },
+            {
+                "setTimeId": "23973",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/09/23214811/hR5zm2uWqFUXG59bUlgGTkNsiEx5Tjqfx1rotkqF-150x150.jpeg",
+                "name": "Koven",
+                "timeFrame": "02:15 AM - 03:30 AM"
+            },
+            {
+                "setTimeId": "23972",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/13232551/d450376c-2c7c-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "FuntCase (DNB Set)",
+                "timeFrame": "03:30 AM - 04:30 AM"
+            },
+            {
+                "setTimeId": "23970",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/13232332/4a6a10d6-2c7c-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Doctor P (DNB Set)",
+                "timeFrame": "04:30 AM - 05:30 AM"
+            }
+        ],
+        "Rynobus": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "23989",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/10/15013627/44484916-2d58-11ec-b991-0ee6b8365494-1-150x150.jpg",
+                "name": "Soul Purpose",
+                "timeFrame": "07:00 PM - 08:00 PM"
+            },
+            {
+                "setTimeId": "23988",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/05/10054134/cbe1945e-d023-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Deyo",
+                "timeFrame": "08:00 PM - 09:00 PM"
+            },
+            {
+                "setTimeId": "23987",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/05/10053512/e5ce2004-d022-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Kallaghan",
+                "timeFrame": "09:00 PM - 10:00 PM"
+            },
+            {
+                "setTimeId": "23986",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/05/10045457/44cfaa24-d01d-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Lady Sinclair",
+                "timeFrame": "10:00 PM - 11:00 PM"
+            },
+            {
+                "setTimeId": "23985",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/05000926/2eGF4fewOKpeb8oDlgwhg0Sorv7BCsF3AdanFWYA-150x150.jpeg",
+                "name": "Adam Auburn",
+                "timeFrame": "11:00 PM - 12:00 AM"
+            },
+            {
+                "setTimeId": "23984",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/05/11152518/main-150x150.jpg",
+                "name": "Fester",
+                "timeFrame": "12:00 AM - 01:00 AM"
+            },
+            {
+                "setTimeId": "23983",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/08/23224948/dt4LRqELnliaVIKIoJDzBDleDRrNWgrlFKVVNq1c-150x150.jpeg",
+                "name": "Kendoll",
+                "timeFrame": "01:00 AM - 02:00 AM"
+            },
+            {
+                "setTimeId": "23982",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/05/02213327/64cc857c-ca5f-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "RemK",
+                "timeFrame": "02:00 AM - 03:00 AM"
+            },
+            {
+                "setTimeId": "24141",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/05/11175856/e9ac0254-d153-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "€URO TRA$H",
+                "timeFrame": "03:00 AM - 04:15 AM"
+            },
+            {
+                "setTimeId": "23980",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/07/16193029/1d31B3H1kfTC2PIWzzIGjw9kqpdv3YDuL0oPu8d7-150x150.jpeg",
+                "name": "Kittrix",
+                "timeFrame": "04:15 AM - 05:30 AM"
+            }
+        ],
+        "Boombox Art Car": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "23997",
+                "dataTime": "75",
+                "name": "Demigod",
+                "timeFrame": "07:00 PM - 08:15 PM"
+            },
+            {
+                "setTimeId": "23996",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/10/08195321/5a04ca26-40cd-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Yokai",
+                "timeFrame": "08:15 PM - 09:30 PM"
+            },
+            {
+                "setTimeId": "23995",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/05/10205824/b8c0aa88-d0a3-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Renato S",
+                "timeFrame": "09:30 PM - 10:45 PM"
+            },
+            {
+                "setTimeId": "23994",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/05/16031458/44767fbe-d4c6-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Harmson",
+                "timeFrame": "10:45 PM - 12:00 AM"
+            },
+            {
+                "setTimeId": "23993",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/07/22194704/77687ea8-d392-11eb-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "DJ Feelgood",
+                "timeFrame": "12:00 AM - 01:00 AM"
+            },
+            {
+                "setTimeId": "24188",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/05/15160618/e443873e-d468-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "D!CED",
+                "timeFrame": "01:00 AM - 02:00 AM"
+            },
+            {
+                "setTimeId": "23992",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/05/10054813/b7715e54-d024-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Kwon",
+                "timeFrame": "02:00 AM - 03:00 AM"
+            },
+            {
+                "setTimeId": "23991",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2016/01/16184811/Uw358iZvzIeM8I7UBL5g3yn1DmyPeIJeWXSgK1Yw-150x150.jpeg",
+                "name": "Piques + Lāsh",
+                "timeFrame": "03:00 AM - 04:15 AM"
+            },
+            {
+                "setTimeId": "23990",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/13211125/aQ58omALOjJngYVvVLGrEx4FJggssZ7Tva2mvijN-150x150.jpeg",
+                "name": "Trouble",
+                "timeFrame": "04:15 AM - 05:30 AM"
+            }
+        ],
+        "Corona Stage": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "24004",
+                "dataTime": "90",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/05/04030555/HoUftA1KOTEHfMwdVN9xFeCJXGuP16xjXldLjsdO-150x150.jpeg",
+                "name": "Niles Shepard",
+                "timeFrame": "07:00 PM - 08:30 PM"
+            },
+            {
+                "setTimeId": "24003",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/08/03221824/e7cd9b44-cb2e-11ec-b991-0ee6b8365494-1-150x150.jpg",
+                "name": "Softest Hard",
+                "timeFrame": "08:30 PM - 09:45 PM"
+            },
+            {
+                "setTimeId": "24002",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2020/09/29214033/4a9e430c-029c-11eb-b991-0ee6b8365494-150x150.jpg",
+                "name": "Capozzi",
+                "timeFrame": "09:45 PM - 10:45 PM"
+            },
+            {
+                "setTimeId": "24001",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/04/21010105/e0ec906c-a23c-11eb-b991-0ee6b8365494-150x150.jpg",
+                "name": "Black V Neck",
+                "timeFrame": "10:45 PM - 11:45 PM"
+            },
+            {
+                "setTimeId": "24000",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/03/07225422/73d00bac-27c1-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Nitepunk",
+                "timeFrame": "11:45 PM - 12:45 AM"
+            },
+            {
+                "setTimeId": "23999",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/11/03060101/60ea6ee2-3c6b-11ec-b991-0ee6b8365494-1-150x150.jpg",
+                "name": "Memba (DJ Set)",
+                "timeFrame": "12:45 AM - 01:45 AM"
+            },
+            {
+                "setTimeId": "23998",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/01/20175814/4052eb2e-31cf-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Wuki &amp; Friends",
+                "timeFrame": "01:45 AM - 02:45 AM"
+            }
+        ],
+        "Allegiant Rave Hangar": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "24013",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2020/12/04230052/03740be2-cbfe-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Echod",
+                "timeFrame": "07:00 PM - 08:00 PM"
+            },
+            {
+                "setTimeId": "24012",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/10/14231324/4925786e-2d44-11ec-b991-0ee6b8365494-1-150x150.jpg",
+                "name": "Julienne By",
+                "timeFrame": "08:00 PM - 09:00 PM"
+            },
+            {
+                "setTimeId": "24011",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2016/08/16004041/bc6b19c8-d4b0-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Swage",
+                "timeFrame": "09:00 PM - 10:00 PM"
+            },
+            {
+                "setTimeId": "24010",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/01/24174727/978a6926-7d3d-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "No Thanks",
+                "timeFrame": "10:00 PM - 11:00 PM"
+            },
+            {
+                "setTimeId": "24009",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/05/04030555/HoUftA1KOTEHfMwdVN9xFeCJXGuP16xjXldLjsdO-150x150.jpeg",
+                "name": "Niles Shepard",
+                "timeFrame": "11:00 PM - 12:00 AM"
+            },
+            {
+                "setTimeId": "24008",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/10/15012330/63caa1be-2d56-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Cloverdale",
+                "timeFrame": "12:00 AM - 01:00 AM"
+            },
+            {
+                "setTimeId": "24007",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/03/28002504/96a7bb36-c689-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "TELYKast",
+                "timeFrame": "01:00 AM - 02:00 AM"
+            },
+            {
+                "setTimeId": "24005",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/05/11041821/55710084-d0e1-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Purple",
+                "timeFrame": "02:00 AM - 03:00 AM"
+            }
+        ]
+    },
+    "2": {
+        "Kinetic Field": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "23090",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/12/11202929/5saxrRnFEirP7zmCDoVyveUx6lO4RRl9t0ddCK01-150x150.jpeg",
+                "name": "Kream",
+                "timeFrame": "07:00 PM - 08:00 PM"
+            },
+            {
+                "setTimeId": "23101",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/04/03052245/12f91ccc-db9c-11eb-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "LP Giobbi",
+                "timeFrame": "08:00 PM - 09:00 PM"
+            },
+            {
+                "setTimeId": "22991",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/20181843/0798b2ae-26d1-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Audien",
+                "timeFrame": "09:00 PM - 10:00 PM"
+            },
+            {
+                "dataTime": "6"
+            },
+            {
+                "setTimeId": "23024",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/06/25183953/e6985f3a-ac6a-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Deorro",
+                "timeFrame": "10:06 PM - 11:06 PM"
+            },
+            {
+                "dataTime": "3"
+            },
+            {
+                "setTimeId": "23148",
+                "dataTime": "70",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/08/03222514/d4d58b7c-cb2f-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Vintage Culture",
+                "timeFrame": "11:09 PM - 12:19 AM"
+            },
+            {
+                "dataTime": "3"
+            },
+            {
+                "setTimeId": "23143",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/17032318/OmXy1JSBjJS6q7pAQ9MoRyD8O5FrXuZcx6YB4UBy-150x150.jpeg",
+                "name": "Tiësto",
+                "timeFrame": "12:22 AM - 01:37 AM"
+            },
+            {
+                "dataTime": "7"
+            },
+            {
+                "setTimeId": "23021",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/11/16200102/qIxRajBBS53boSQjI7BkF24bMsHfdl2eqHbJlFHu-150x150.jpeg",
+                "name": "David Guetta &amp; Morten present: Future Rave",
+                "timeFrame": "01:44 AM - 02:59 AM"
+            },
+            {
+                "dataTime": "3"
+            },
+            {
+                "setTimeId": "23027",
+                "dataTime": "70",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/19182518/d9038318-3109-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "DJ Snake",
+                "timeFrame": "03:02 AM - 04:12 AM"
+            },
+            {
+                "dataTime": "3"
+            },
+            {
+                "setTimeId": "22979",
+                "dataTime": "73",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/11/11043431/KxmRDPXFlDXmDNIzTXdryJpah6KwvaMdlBD6Bd1A-150x150.jpeg",
+                "name": "AC Slater B2B Chris Lorenzo",
+                "timeFrame": "04:15 AM - 05:28 AM"
+            }
+        ],
+        "Cosmic Meadow": [
+            {
+                "setTimeId": "23120",
+                "dataTime": "30",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/11/04225325/f08de792-cbfc-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Qrion",
+                "timeFrame": "05:00 PM - 05:30 PM"
+            },
+            {
+                "setTimeId": "22982",
+                "dataTime": "90",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/03/16004145/e7dcccc8-d4b0-11ec-b991-0ee6b8365494-1-150x150.jpg",
+                "name": "Air2Earth",
+                "timeFrame": "05:30 PM - 07:00 PM"
+            },
+            {
+                "setTimeId": "23029",
+                "dataTime": "50",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/11/03022650/7128b6ec-3c4d-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Dot",
+                "timeFrame": "07:00 PM - 07:50 PM"
+            },
+            {
+                "dataTime": "10"
+            },
+            {
+                "setTimeId": "23080",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/09/30194646/11a96332-2227-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Kasablanca",
+                "timeFrame": "08:00 PM - 09:00 PM"
+            },
+            {
+                "dataTime": "5"
+            },
+            {
+                "setTimeId": "23130",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/12/10184423/1ca6151a-59e9-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "So Tuff So Cute",
+                "timeFrame": "09:05 PM - 10:05 PM"
+            },
+            {
+                "setTimeId": "23046",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/11/02231415/8211e6c4-3c32-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Grimes (DJ Set)",
+                "timeFrame": "10:05 PM - 11:05 PM"
+            },
+            {
+                "dataTime": "10"
+            },
+            {
+                "setTimeId": "23032",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/03/10231943/7d7cf90a-a0c8-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Duck Sauce",
+                "timeFrame": "11:15 PM - 12:15 AM"
+            },
+            {
+                "dataTime": "10"
+            },
+            {
+                "setTimeId": "23060",
+                "dataTime": "65",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/04/03185908/yIi34LsJt7DEZfavUh2kFWWv99GgzhhJRnjHjFv9-150x150.jpeg",
+                "name": "Jai Wolf",
+                "timeFrame": "12:25 AM - 01:30 AM"
+            },
+            {
+                "setTimeId": "23152",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/06195238/main-150x150.jpg",
+                "name": "Yellow Claw",
+                "timeFrame": "01:30 AM - 02:30 AM"
+            },
+            {
+                "setTimeId": "23051",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/11/11043440/Lu7MfPFXlbjwoku8X18LjjkpqgE8x48xGaGnOE6E-150x150.jpeg",
+                "name": "Hulk Gang (4B + Valentino Khan)",
+                "timeFrame": "02:30 AM - 03:30 AM"
+            },
+            {
+                "setTimeId": "23114",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/04/14005530/0061565c-b44f-11eb-b991-0ee6b8365494-150x150.jpg",
+                "name": "MitiS",
+                "timeFrame": "03:30 AM - 04:30 AM"
+            },
+            {
+                "setTimeId": "23067",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/03/29003035/e49fc518-9025-11eb-b991-0ee6b8365494-150x150.jpg",
+                "name": "Jauz",
+                "timeFrame": "04:30 AM - 05:30 AM"
+            }
+        ],
+        "Circuit Grounds": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "22999",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/12/21191559/3a80a3ba-32a3-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Blossom",
+                "timeFrame": "07:00 PM - 08:00 PM"
+            },
+            {
+                "setTimeId": "23063",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/08/12214428/600fe36c-fbb6-11eb-b991-0ee6b8365494-150x150.jpg",
+                "name": "James Hype",
+                "timeFrame": "08:00 PM - 09:00 PM"
+            },
+            {
+                "setTimeId": "23109",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2016/03/01234316/d2e2786e-a3c7-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Matroda",
+                "timeFrame": "09:00 PM - 10:00 PM"
+            },
+            {
+                "setTimeId": "23127",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2020/02/15205755/397ef9f6-2dfa-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "SIDEPIECE",
+                "timeFrame": "10:00 PM - 11:00 PM"
+            },
+            {
+                "setTimeId": "22984",
+                "dataTime": "90",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/26173915/3d89819a-a6b6-11eb-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Alesso",
+                "timeFrame": "11:00 PM - 12:30 AM"
+            },
+            {
+                "dataTime": "20"
+            },
+            {
+                "setTimeId": "23082",
+                "dataTime": "80",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/11/11043445/HVpHx8BpMHTmYF2cd1gNbrAYpMbcL6505OyiMAgS-150x150.jpeg",
+                "name": "Kaskade &amp; deadmau5 present Kx5",
+                "timeFrame": "12:50 AM - 02:10 AM"
+            },
+            {
+                "dataTime": "20"
+            },
+            {
+                "setTimeId": "23134",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/12/08070214/p9DfqI9Q1U2BSMjAvuHWk3QAdqg3zcVyNGwbozPp-150x150.jpeg",
+                "name": "Subtronics",
+                "timeFrame": "02:30 AM - 03:30 AM"
+            },
+            {
+                "setTimeId": "23085",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/27192543/5b08c148-ef10-11eb-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Kayzo",
+                "timeFrame": "03:30 AM - 04:30 AM"
+            },
+            {
+                "setTimeId": "23066",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/12/20174151/f53c657c-31cc-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Jason Ross",
+                "timeFrame": "04:30 AM - 05:30 AM"
+            }
+        ],
+        "Neon Garden": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "23059",
+                "dataTime": "90",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/03/07211756/f92de948-9e5b-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Indira Paganotto",
+                "timeFrame": "07:00 PM - 08:30 PM"
+            },
+            {
+                "setTimeId": "23115",
+                "dataTime": "90",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/09/18191515/E0D9eaezhMxiOwylFnHW44vYzhiQJ3EJu8EqfkNV-150x150.jpeg",
+                "name": "ONYVAA",
+                "timeFrame": "08:30 PM - 10:00 PM"
+            },
+            {
+                "setTimeId": "23041",
+                "dataTime": "120",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/08/24204258/b7b4515c-051b-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "FJAAK (DJ Set)",
+                "timeFrame": "10:00 PM - 12:00 AM"
+            },
+            {
+                "setTimeId": "23070",
+                "dataTime": "120",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/14223018/qf8zbIxDL7FReRxNW9O6oSjGNyPwvBvn21drBJs5-150x150.jpeg",
+                "name": "Joseph Capriati",
+                "timeFrame": "12:00 AM - 02:00 AM"
+            },
+            {
+                "setTimeId": "23007",
+                "dataTime": "120",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/02/22172218/Q9bW8OSZghD2zMtUihdAgC3GNAkRGtAI6poJCt56-150x150.jpeg",
+                "name": "Charlotte de Witte presents KNTXT",
+                "timeFrame": "02:00 AM - 04:00 AM"
+            },
+            {
+                "setTimeId": "23056",
+                "dataTime": "90",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/03/07210301/e690d9c8-9e59-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "I Hate Models",
+                "timeFrame": "04:00 AM - 05:30 AM"
+            }
+        ],
+        "Basspod": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "23042",
+                "dataTime": "50",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/11/11043459/7Zo6gxTxgHfhpWjDBufFWRA2r5EW7weSol7HWVSo-150x150.jpeg",
+                "name": "Fury B2B Nightstalker with MC Dino",
+                "timeFrame": "07:00 PM - 07:50 PM"
+            },
+            {
+                "setTimeId": "22974",
+                "dataTime": "50",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2016/11/25185758/6c3f6802-ac6d-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "1991",
+                "timeFrame": "07:50 PM - 08:40 PM"
+            },
+            {
+                "setTimeId": "23054",
+                "dataTime": "50",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2020/09/28043031/iQdpH8mUTzrnTFwx70fmK0hHxysfIKpOvDrAeKu0-150x150.jpeg",
+                "name": "Hybrid Minds",
+                "timeFrame": "08:40 PM - 09:30 PM"
+            },
+            {
+                "setTimeId": "23095",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/10/11222350/3373c158-8b89-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Lab Group",
+                "timeFrame": "09:30 PM - 10:30 PM"
+            },
+            {
+                "setTimeId": "23023",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/11/16200122/fyF9aRTZMMrbpH1HUD0g8886Y3GKQJZrm434k4f1-150x150.jpeg",
+                "name": "Delta Heavy B2B Koven B2B Muzz",
+                "timeFrame": "10:30 PM - 11:30 PM"
+            },
+            {
+                "setTimeId": "23001",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/02/30182006/7e55e0a2-9184-11eb-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Blunts &amp; Blondes",
+                "timeFrame": "11:30 PM - 12:30 AM"
+            },
+            {
+                "setTimeId": "23107",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/04/07012454/50c01418-270d-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Marauda",
+                "timeFrame": "12:30 AM - 01:30 AM"
+            },
+            {
+                "setTimeId": "23036",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/19183048/9c84293c-310a-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Excision (Detox Set)",
+                "timeFrame": "01:30 AM - 02:30 AM"
+            },
+            {
+                "setTimeId": "23002",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/24183548/pOyKvHTpyph4qXgvKwgY5L9LbEcoAd1LiisnUfGz-150x150.jpeg",
+                "name": "Borgore",
+                "timeFrame": "02:30 AM - 03:30 AM"
+            },
+            {
+                "setTimeId": "23045",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/11/11043452/N8HVPJx9cRBTPEgjH6TRdRGtd3vahmQYrJeutLWk-150x150.jpeg",
+                "name": "Getter B2B Space Laces",
+                "timeFrame": "03:30 AM - 04:30 AM"
+            },
+            {
+                "setTimeId": "22994",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/11/11043449/kjEDlKwOANiKoBrgraN1PFFOD8Bcl8lLaXs1L1rC-150x150.jpeg",
+                "name": "Bear Grillz B2B Kompany",
+                "timeFrame": "04:30 AM - 05:30 AM"
+            }
+        ],
+        "Wasteland": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "23015",
+                "dataTime": "50",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/02/09221713/RRoix0rW3sXf8uaagwVRM6bdruCTjVQIdH6vLWT9-150x150.jpeg",
+                "name": "Crime Family",
+                "timeFrame": "07:00 PM - 07:50 PM"
+            },
+            {
+                "setTimeId": "23140",
+                "dataTime": "50",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/07/03005759/Hthu1tqmSMb9lCUVu5gu1PwlVnLqke4OPafl7I0j-150x150.jpeg",
+                "name": "Talon",
+                "timeFrame": "07:50 PM - 08:40 PM"
+            },
+            {
+                "setTimeId": "23098",
+                "dataTime": "50",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/10/07180516/ac7b432c-2712-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Link",
+                "timeFrame": "08:40 PM - 09:30 PM"
+            },
+            {
+                "setTimeId": "23076",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/11/11043503/PxJz5cctdEa7HYb5FXuXrNm7zGn0tdTehDYg5Ur1-150x150.jpeg",
+                "name": "Junkie Kid B2B Geo",
+                "timeFrame": "09:30 PM - 10:30 PM"
+            },
+            {
+                "setTimeId": "23133",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/08/07002733/31sAk1vMgF72CQirohi0FLmHlO4uYC9N13XsnlT9-150x150.jpeg",
+                "name": "Sound Rush",
+                "timeFrame": "10:30 PM - 11:30 PM"
+            },
+            {
+                "setTimeId": "23672",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/12001720/eUryneRReiNSM3QyNbaQbKBdb3h9mdv4GyYycjrq-150x150.jpeg",
+                "name": "Lady Faith",
+                "timeFrame": "11:30 PM - 12:30 AM"
+            },
+            {
+                "setTimeId": "23018",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/11/14004020/zRkoSYX6DmSKG98GrNMI1MrHBk6EFxp1KbuD4jsK-150x150.jpeg",
+                "name": "Da Tweekaz",
+                "timeFrame": "12:30 AM - 01:30 AM"
+            },
+            {
+                "setTimeId": "23121",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/09/14224816/FIEFdlrwjvfmd8UMbf4XlrNoqWAvSlCJ9YrBOGVX-150x150.jpeg",
+                "name": "Radical Redemption",
+                "timeFrame": "01:30 AM - 02:30 AM"
+            },
+            {
+                "setTimeId": "23097",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/10/22184310/e64f1b80-270f-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Lil Texas",
+                "timeFrame": "02:30 AM - 03:30 AM"
+            },
+            {
+                "setTimeId": "24198",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/06/07020135/6c82213c-2712-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Audiofreq",
+                "timeFrame": "03:30 AM - 04:30 AM"
+            },
+            {
+                "setTimeId": "23124",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2016/05/14225119/DgnRdgSJstUjlDESQ7NfeENhgvJkaHK1Yi9p9G7A-150x150.jpeg",
+                "name": "Rob Gee",
+                "timeFrame": "04:30 AM - 05:30 AM"
+            }
+        ],
+        "Quantum Valley": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "23088",
+                "dataTime": "90",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/06/18214958/htB4R23u5RNe4Qwlo8STaAJDyt1HcbCjs33TwBaS-150x150.jpeg",
+                "name": "Khromata",
+                "timeFrame": "07:00 PM - 08:30 PM"
+            },
+            {
+                "setTimeId": "23142",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/01/04012328/fc980bd2-6cc3-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Taylor Torrence",
+                "timeFrame": "08:30 PM - 09:30 PM"
+            },
+            {
+                "setTimeId": "23112",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2020/01/15211357/8Hh9gzAVd0OU8VIVJ4kFFJTHmNzVoDC0nrM433G3-150x150.jpeg",
+                "name": "Matt Fax",
+                "timeFrame": "09:30 PM - 10:30 PM"
+            },
+            {
+                "setTimeId": "23126",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/01/14184414/main-150x150.jpg",
+                "name": "Ruben de Ronde",
+                "timeFrame": "10:30 PM - 11:30 PM"
+            },
+            {
+                "setTimeId": "23039",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/22003637/f9668a5c-32cf-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Ferry Corsten",
+                "timeFrame": "11:30 PM - 12:30 AM"
+            },
+            {
+                "setTimeId": "22985",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/16230600/o7leFmHgAKrlbL78x39byh41X4WpKe9YX1CZezHO-150x150.jpeg",
+                "name": "Aly &amp; Fila",
+                "timeFrame": "12:30 AM - 01:30 AM"
+            },
+            {
+                "setTimeId": "23118",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/06/11145506/main-150x150.jpg",
+                "name": "Paul van Dyk",
+                "timeFrame": "01:30 AM - 02:30 AM"
+            },
+            {
+                "setTimeId": "23146",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/10/10011246/TD4sKKVCjhUe3pyDvli4rkW0fr81V1YonpFVlJoj-150x150.jpeg",
+                "name": "Vini Vici",
+                "timeFrame": "02:30 AM - 03:30 AM"
+            },
+            {
+                "setTimeId": "22990",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/06/17183655/main-150x150.jpeg",
+                "name": "Astrix",
+                "timeFrame": "03:30 AM - 04:30 AM"
+            },
+            {
+                "setTimeId": "23014",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/08/06181737/DcTyyIGetzJIkprMmgnfEBEPxsdjAfis434jtDy2-150x150.jpeg",
+                "name": "Craig Connelly",
+                "timeFrame": "04:30 AM - 05:30 AM"
+            }
+        ],
+        "Stereo Bloom": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "22988",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/03/13180813/MctFa1JtNPK9MvVj7bdjoM7f26mwbrWtRTTXqtpT-150x150.jpeg",
+                "name": "Alyx Ander",
+                "timeFrame": "07:00 PM - 08:00 PM"
+            },
+            {
+                "setTimeId": "23104",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/03/07213707/aeb647cc-9e5e-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Majestic",
+                "timeFrame": "08:00 PM - 09:00 PM"
+            },
+            {
+                "setTimeId": "23050",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/05/08175649/3756f038-bdb2-11eb-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "HoneyLuv",
+                "timeFrame": "09:00 PM - 10:00 PM"
+            },
+            {
+                "setTimeId": "22996",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2020/08/11221846/ADrkPqSFTMkDHzXxGdyrplgioHefWMlqY5VIbzy6-150x150.jpeg",
+                "name": "Biscits",
+                "timeFrame": "10:00 PM - 11:00 PM"
+            },
+            {
+                "setTimeId": "23103",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/11/16200135/K0bKQKDjBWuowRYktxsBEo32CZIdZwuF7LQS2LVQ-150x150.jpeg",
+                "name": "LP Giobbi B2B Born Dirty",
+                "timeFrame": "11:00 PM - 12:15 AM"
+            },
+            {
+                "setTimeId": "23011",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2020/08/11221012/EL9dOtP7iPTkchMYoReCnIF0keVGASoFM2azhIVV-150x150.jpeg",
+                "name": "Cloonee",
+                "timeFrame": "12:15 AM - 01:15 AM"
+            },
+            {
+                "setTimeId": "22977",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/29005332/main-150x150.jpg",
+                "name": "A-Trak (House Set)",
+                "timeFrame": "01:15 AM - 02:30 AM"
+            },
+            {
+                "setTimeId": "23008",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/09/24183728/PHFEYzN2v4mYbrc3JAiBhYdZiozGAfYUWUWE21cT-150x150.jpeg",
+                "name": "CID",
+                "timeFrame": "02:30 AM - 03:30 AM"
+            },
+            {
+                "setTimeId": "23074",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/03/07212200/90f458ac-9e5c-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Joshwa",
+                "timeFrame": "03:30 AM - 04:30 AM"
+            },
+            {
+                "setTimeId": "23005",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/03/07204814/aa91fada-9e57-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Chapter &amp; Verse",
+                "timeFrame": "04:30 AM - 05:30 AM"
+            }
+        ],
+        "Bionic Jungle": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "24019",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/09/29234916/cc03a9de-217f-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Things You Say",
+                "timeFrame": "07:00 PM - 08:15 PM"
+            },
+            {
+                "setTimeId": "24018",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/09/16234220/99b3233c-321a-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Bakke",
+                "timeFrame": "08:15 PM - 09:30 PM"
+            },
+            {
+                "setTimeId": "24017",
+                "dataTime": "120",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/04/18222355/EUTLE7d4y3LUt2ylxBklxpWF9QjyDa8dpMhsDAM9-150x150.jpeg",
+                "name": "Felix Da Housecat",
+                "timeFrame": "09:30 PM - 11:30 PM"
+            },
+            {
+                "setTimeId": "24016",
+                "dataTime": "120",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/06/10055643/e9b86cf8-d025-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Harry Romero",
+                "timeFrame": "11:30 PM - 01:30 AM"
+            },
+            {
+                "setTimeId": "24015",
+                "dataTime": "120",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/07/31194906/nzV600ISKDZlCiHk7kRTivp5TgC330Ym3YL3H9nT-150x150.jpeg",
+                "name": "Heidi Lawden",
+                "timeFrame": "01:30 AM - 03:30 AM"
+            },
+            {
+                "setTimeId": "24014",
+                "dataTime": "120",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/07/11150328/main-150x150.jpg",
+                "name": "Mark Farina",
+                "timeFrame": "03:30 AM - 05:30 AM"
+            }
+        ],
+        "Parliament Art Car": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "24027",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/05/10044932/861558ea-d01c-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Nick Garcia",
+                "timeFrame": "07:00 PM - 08:15 PM"
+            },
+            {
+                "setTimeId": "24026",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/10/12185606/fc6d54b2-3106-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Marc V",
+                "timeFrame": "08:15 PM - 09:30 PM"
+            },
+            {
+                "setTimeId": "24183",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/05/13225134/2ca29714-d30f-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Solh",
+                "timeFrame": "09:30 PM - 10:45 PM"
+            },
+            {
+                "setTimeId": "24025",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/11/06000806/8e16f832-3e95-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "SOREN (House Set)",
+                "timeFrame": "10:45 PM - 12:00 AM"
+            },
+            {
+                "setTimeId": "24024",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/13224955/d28002e6-2c77-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Wax Motif &amp; Friends",
+                "timeFrame": "12:00 AM - 01:00 AM"
+            },
+            {
+                "setTimeId": "24023",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/08/03222514/d4d58b7c-cb2f-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Vintage Culture",
+                "timeFrame": "01:00 AM - 02:00 AM"
+            },
+            {
+                "setTimeId": "24022",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/04/20175441/c132b482-31ce-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Born Dirty (Techno Set)",
+                "timeFrame": "02:00 AM - 03:00 AM"
+            },
+            {
+                "setTimeId": "24021",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/03/23234443/QkTFhjrOD58anEowXN6YKP20UzJK69SJAq6U0t92-150x150.jpeg",
+                "name": "Lucati",
+                "timeFrame": "03:00 AM - 04:00 AM"
+            },
+            {
+                "setTimeId": "24020",
+                "dataTime": "90",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/11/16200140/QosySrioCGj67fNblTvlsGucepINhfkBa73eHs9p-150x150.jpeg",
+                "name": "On Deck + Skemaddox",
+                "timeFrame": "04:00 AM - 05:30 AM"
+            }
+        ],
+        "Forest House Art Car": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "24035",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/05/10060608/36782122-d027-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Gibson Parker",
+                "timeFrame": "07:00 PM - 08:15 PM"
+            },
+            {
+                "setTimeId": "24034",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/05/10213556/17cabe10-d0a9-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Matt Steffanina",
+                "timeFrame": "08:15 PM - 09:30 PM"
+            },
+            {
+                "setTimeId": "24033",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/05/10064859/376bec2a-d02d-11ec-b991-0ee6b8365494-1-150x150.jpg",
+                "name": "Fetish",
+                "timeFrame": "09:30 PM - 10:45 PM"
+            },
+            {
+                "setTimeId": "24032",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/10/15012330/63caa1be-2d56-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Cloverdale",
+                "timeFrame": "10:45 PM - 12:00 AM"
+            },
+            {
+                "setTimeId": "24031",
+                "dataTime": "90",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/06/20230705/K2g6eN1uQejSozN6O4Jb1HRASyWr82KVHghBLHpk-150x150.jpeg",
+                "name": "Qlank",
+                "timeFrame": "12:00 AM - 01:30 AM"
+            },
+            {
+                "setTimeId": "24030",
+                "dataTime": "90",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2020/01/10005920/j8G9pKeRZSPr0hgEfqTlAS7LthqSxUyyI6Aob8Pm-150x150.jpeg",
+                "name": "Masteria",
+                "timeFrame": "01:30 AM - 03:00 AM"
+            },
+            {
+                "setTimeId": "24029",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/10/15011228/e51abe9a-2d54-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "BOMBAYS",
+                "timeFrame": "03:00 AM - 04:15 AM"
+            },
+            {
+                "setTimeId": "24028",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/05/10060209/abfbe006-d026-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Max Low",
+                "timeFrame": "04:15 AM - 05:30 AM"
+            }
+        ],
+        "Rynobus": [
+            {
+                "dataTime": "180"
+            },
+            {
+                "setTimeId": "24047",
+                "dataTime": "45",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/06/02011549/f55b50fa-c33f-11eb-b991-0ee6b8365494-150x150.jpg",
+                "name": "Star Seed",
+                "timeFrame": "08:00 PM - 08:45 PM"
+            },
+            {
+                "setTimeId": "24046",
+                "dataTime": "45",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/10/14221532/303802b6-2d3c-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Synymata",
+                "timeFrame": "08:45 PM - 09:30 PM"
+            },
+            {
+                "setTimeId": "24045",
+                "dataTime": "45",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/05/10214627/87711380-d0aa-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Slippy",
+                "timeFrame": "09:30 PM - 10:15 PM"
+            },
+            {
+                "setTimeId": "24044",
+                "dataTime": "45",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/11/16200147/QvEZ2GnIrTTvDLajZDLH5hKLuyQAPNTdiYhve4M0-150x150.jpeg",
+                "name": "FrostTop B2B RemK",
+                "timeFrame": "10:15 PM - 11:00 PM"
+            },
+            {
+                "setTimeId": "24043",
+                "dataTime": "45",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/01/10062601/00651812-d02a-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "KUURO",
+                "timeFrame": "11:00 PM - 11:45 PM"
+            },
+            {
+                "setTimeId": "24042",
+                "dataTime": "45",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/04/05223723/71a4f070-965f-11eb-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Jawns",
+                "timeFrame": "11:45 PM - 12:30 AM"
+            },
+            {
+                "setTimeId": "24041",
+                "dataTime": "45",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/05/10062151/6c61d934-d029-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "One True God",
+                "timeFrame": "12:30 AM - 01:15 AM"
+            },
+            {
+                "setTimeId": "24040",
+                "dataTime": "45",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2020/07/15192017/KaacCFkhoncxzY90rzTlcVWpwjoVGp2BRQht9WTM-150x150.jpeg",
+                "name": "Knock2",
+                "timeFrame": "01:15 AM - 02:00 AM"
+            },
+            {
+                "setTimeId": "24039",
+                "dataTime": "30",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/02/11012537/mWT1dqTT1NMyEmUvJTXjhhtLmbMZjVuJApCfF4Oq-150x150.jpeg",
+                "name": "Special Guest",
+                "timeFrame": "02:00 AM - 02:30 AM"
+            },
+            {
+                "setTimeId": "24038",
+                "dataTime": "45",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/11/10224552/e03ae89a-4277-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "longstoryshort",
+                "timeFrame": "02:30 AM - 03:15 AM"
+            },
+            {
+                "setTimeId": "24037",
+                "dataTime": "45",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/09/05183156/eXAGo5gXgwymjK8i41ahnpxG2DzmnhrAc69l6L9s-150x150.jpeg",
+                "name": "Rad Cat",
+                "timeFrame": "03:15 AM - 04:00 AM"
+            }
+        ],
+        "Boombox Art Car": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "24055",
+                "dataTime": "120",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/10/15060451/c017bc78-2d7d-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Carlo Key",
+                "timeFrame": "07:00 PM - 09:00 PM"
+            },
+            {
+                "setTimeId": "24054",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/05/10063839/c496100a-d02b-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Anderson M",
+                "timeFrame": "09:00 PM - 10:15 PM"
+            },
+            {
+                "setTimeId": "24053",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2016/01/16200151/MMFmyDU16wtGukM5CuIw4z423dF9jTOigPHWz8EX-150x150.jpeg",
+                "name": "Ruff Hauser B2B Roy Wilkins",
+                "timeFrame": "10:15 PM - 11:30 PM"
+            },
+            {
+                "setTimeId": "24052",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/09/04182735/tK6T38WMciI37eiTHw0vr91im42o2nKYA4cDaKS3-150x150.jpeg",
+                "name": "Brandon Elliot",
+                "timeFrame": "11:30 PM - 12:30 AM"
+            },
+            {
+                "setTimeId": "24051",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/10/15014156/08625fa8-2d59-11ec-b991-0ee6b8365494-1-150x150.jpg",
+                "name": "El Monk",
+                "timeFrame": "12:30 AM - 01:30 AM"
+            },
+            {
+                "setTimeId": "24050",
+                "dataTime": "90",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2016/05/10221603/be46caea-d0ae-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Thee-O",
+                "timeFrame": "01:30 AM - 03:00 AM"
+            },
+            {
+                "setTimeId": "24049",
+                "dataTime": "75",
+                "name": "Mars",
+                "timeFrame": "03:00 AM - 04:15 AM"
+            },
+            {
+                "setTimeId": "24048",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2016/03/11154729/main-150x150.jpg",
+                "name": "Moni",
+                "timeFrame": "04:15 AM - 05:30 AM"
+            }
+        ],
+        "Corona Stage": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "24065",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/04/01192622/654a8fae-0b5a-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Taylor Kade",
+                "timeFrame": "07:00 PM - 08:00 PM"
+            },
+            {
+                "setTimeId": "24064",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/05/14174746/ca4344fe-1583-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Highlnd",
+                "timeFrame": "08:00 PM - 09:00 PM"
+            },
+            {
+                "setTimeId": "24062",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/06/02002354/bbecf87a-c338-11eb-b991-0ee6b8365494-150x150.jpg",
+                "name": "Pauline Herr",
+                "timeFrame": "09:00 PM - 10:00 PM"
+            },
+            {
+                "setTimeId": "24061",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/05/10035006/9ZgeCtvaNThgPmB9xtMilFsZdUXDx7OUHwWXFwtt-150x150.jpeg",
+                "name": "yetep",
+                "timeFrame": "10:00 PM - 11:00 PM"
+            },
+            {
+                "setTimeId": "24060",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/06/21003442/MbvRkRGaIR79SCiSPOGIvfmppFgGoOuu0VIxc2V6-150x150.jpeg",
+                "name": "ARMNHMR",
+                "timeFrame": "11:00 PM - 12:00 AM"
+            },
+            {
+                "setTimeId": "24059",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/11/16200156/2HhlKYpFkER8bnMgRgzOp4TZnvSXVICZ8eVyNshD-150x150.jpeg",
+                "name": "Special Guest B2B Crystal Skies",
+                "timeFrame": "12:00 AM - 01:00 AM"
+            },
+            {
+                "setTimeId": "24058",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/12/12185743/Gd165f27GMEXSKk0cKklZhAQnSl3fY56cMZkdhWd-150x150.jpeg",
+                "name": "Autograf",
+                "timeFrame": "01:00 AM - 02:00 AM"
+            },
+            {
+                "setTimeId": "24057",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2016/08/16185236/cMPDf5T6ev6GGg4rqaCsEZln9yFYtqhz3VpqVitC-150x150.jpeg",
+                "name": "San Holo",
+                "timeFrame": "02:00 AM - 03:00 AM"
+            },
+            {
+                "setTimeId": "24056",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/10/16182024/cc350ffa-d544-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "helloworld",
+                "timeFrame": "03:00 AM - 04:00 AM"
+            }
+        ],
+        "Allegiant Rave Hangar": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "24076",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/08/08191450/pbAxSzgCfDYWUAbEjje4JkhVwVNIRHw5c96sNHyQ-150x150.jpeg",
+                "name": "Mark Lizaola",
+                "timeFrame": "07:00 PM - 08:00 PM"
+            },
+            {
+                "setTimeId": "24074",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/15230702/8ae966c0-2e0c-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Bones",
+                "timeFrame": "08:00 PM - 09:00 PM"
+            },
+            {
+                "setTimeId": "24072",
+                "dataTime": "120",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2016/01/16200200/HOsfwHTncRXdMfFowsm0G3wUoQkk49d2RoxR95SE-150x150.jpeg",
+                "name": "Morpei B2B Abana",
+                "timeFrame": "09:00 PM - 11:00 PM"
+            },
+            {
+                "setTimeId": "24071",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/09/11150913/main-150x150.jpg",
+                "name": "Mija",
+                "timeFrame": "11:00 PM - 12:00 AM"
+            },
+            {
+                "setTimeId": "24069",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/03/10232714/6c50677e-a0c9-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Francis Mercier",
+                "timeFrame": "12:00 AM - 01:00 AM"
+            },
+            {
+                "setTimeId": "24067",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/09/24183728/PHFEYzN2v4mYbrc3JAiBhYdZiozGAfYUWUWE21cT-150x150.jpeg",
+                "name": "CID",
+                "timeFrame": "01:00 AM - 02:00 AM"
+            },
+            {
+                "setTimeId": "24181",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/07/14011236/ee2a9860-d2f5-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Matthias",
+                "timeFrame": "02:00 AM - 03:00 AM"
+            }
+        ]
+    },
+    "3": {
+        "Kinetic Field": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "23167",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/11/16184736/9k0BshxLoQBxJkJy2Ej0s2eVN2NGkOMSoJoNFo9E-150x150.jpeg",
+                "name": "Wenzday B2B Nostalgix",
+                "timeFrame": "07:00 PM - 08:00 PM"
+            },
+            {
+                "setTimeId": "23147",
+                "dataTime": "55",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/03/10233338/6a048b5c-a0ca-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Imanbek",
+                "timeFrame": "08:00 PM - 08:55 PM"
+            },
+            {
+                "setTimeId": "23150",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/07/19212401/91837522-e8d7-11eb-b991-0ee6b8365494-150x150.jpg",
+                "name": "Joel Corry",
+                "timeFrame": "08:55 PM - 09:55 PM"
+            },
+            {
+                "dataTime": "6"
+            },
+            {
+                "setTimeId": "23123",
+                "dataTime": "65",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/04/22001620/1loaUpTaTDj7FsgOgiJaQ9NjT5oINkYvh9TTKDAa-150x150.jpeg",
+                "name": "Dom Dolla",
+                "timeFrame": "10:01 PM - 11:06 PM"
+            },
+            {
+                "dataTime": "3"
+            },
+            {
+                "setTimeId": "23083",
+                "dataTime": "65",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/08/10195306/fGN0KOhqFMN2Fk3o4qkmgxCgn2osWidrmqcprVUx-150x150.jpeg",
+                "name": "Alok",
+                "timeFrame": "11:09 PM - 12:14 AM"
+            },
+            {
+                "dataTime": "3"
+            },
+            {
+                "setTimeId": "23189",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/12003949/KcI1pAmAXnO1GIw5c5Al2pJXmsloDaRJCXz5iIC3-150x150.jpeg",
+                "name": "Zedd",
+                "timeFrame": "12:17 AM - 01:32 AM"
+            },
+            {
+                "dataTime": "7"
+            },
+            {
+                "setTimeId": "23145",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2016/06/16182112/1KbTJDiRHVZtfPMylPyOPCJ0mzaxUtmAjYfg7RpS-150x150.jpeg",
+                "name": "Illenium",
+                "timeFrame": "01:39 AM - 02:54 AM"
+            },
+            {
+                "dataTime": "3"
+            },
+            {
+                "setTimeId": "23091",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/06232310/CajWkR3Sbp1M9jB2bxlBwhlwM9GtyPUu9nXAteDt-150x150.jpeg",
+                "name": "Armin van Buuren",
+                "timeFrame": "02:57 AM - 04:12 AM"
+            },
+            {
+                "dataTime": "3"
+            },
+            {
+                "setTimeId": "23154",
+                "dataTime": "73",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/20180048/933b76d0-31cf-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Kaskade Redux",
+                "timeFrame": "04:15 AM - 05:28 AM"
+            }
+        ],
+        "Cosmic Meadow": [
+            {
+                "setTimeId": "23185",
+                "dataTime": "30",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/03/09182726/9de54960-418a-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Wenzday",
+                "timeFrame": "05:00 PM - 05:30 PM"
+            },
+            {
+                "setTimeId": "23105",
+                "dataTime": "90",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/11/16184744/59nLnbGfodnHdmSQa7uncydLtnBNYGAfQ9HAXVaS-150x150.jpeg",
+                "name": "BIJOU B2B Habstrakt",
+                "timeFrame": "05:30 PM - 07:00 PM"
+            },
+            {
+                "setTimeId": "23188",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/02/08212004/a81O7MRSYBwQmlQSfWbZKoRkQ9cCdkbvunSYyhR9-150x150.jpeg",
+                "name": "Yolanda Be Cool",
+                "timeFrame": "07:00 PM - 08:00 PM"
+            },
+            {
+                "setTimeId": "23168",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/03/15072638/4ef2e0d4-902c-11eb-b991-0ee6b8365494-150x150.jpg",
+                "name": "Partiboi69",
+                "timeFrame": "08:00 PM - 09:00 PM"
+            },
+            {
+                "setTimeId": "23180",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/03/07215605/473e666c-9e61-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "TSHA",
+                "timeFrame": "09:00 PM - 10:00 PM"
+            },
+            {
+                "setTimeId": "23176",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/07/10230703/1QRnKGOzqzbPm65ru4Psm94laNid3fzMmBiRQXDV-150x150.jpeg",
+                "name": "Shiba San",
+                "timeFrame": "10:00 PM - 11:00 PM"
+            },
+            {
+                "dataTime": "5"
+            },
+            {
+                "setTimeId": "23174",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2016/08/16185236/cMPDf5T6ev6GGg4rqaCsEZln9yFYtqhz3VpqVitC-150x150.jpeg",
+                "name": "San Holo",
+                "timeFrame": "11:05 PM - 12:05 AM"
+            },
+            {
+                "dataTime": "5"
+            },
+            {
+                "setTimeId": "23178",
+                "dataTime": "80",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/06/26174708/nKvi36e58oEQJNOvN39bIBQuwpoSo87IvgeUF3ze-150x150.jpeg",
+                "name": "Tchami",
+                "timeFrame": "12:10 AM - 01:30 AM"
+            },
+            {
+                "setTimeId": "23117",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/06235520/fNl7lJh0RhexB8Zf4uM9JWmZYhVdc9KTVwbDJtdy-150x150.jpeg",
+                "name": "Dillon Francis",
+                "timeFrame": "01:30 AM - 02:30 AM"
+            },
+            {
+                "setTimeId": "23184",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/13224955/d28002e6-2c77-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Wax Motif",
+                "timeFrame": "02:30 AM - 03:30 AM"
+            },
+            {
+                "setTimeId": "23072",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/11/16184739/19Wll6ZW0wgk1CMM2dDxEQ8Bs71S4Fofz90QIcSJ-150x150.jpeg",
+                "name": "A-Trak B2B Craze",
+                "timeFrame": "03:30 AM - 04:30 AM"
+            },
+            {
+                "setTimeId": "23136",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/19002410/VbeAYMvK6skGnWrIZIWEZG6ea0CopNwg8kVMDA5g-150x150.jpeg",
+                "name": "Good Times Ahead",
+                "timeFrame": "04:30 AM - 05:30 AM"
+            }
+        ],
+        "Circuit Grounds": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "23186",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/11/26185928/ee1c2ba6-c592-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Westend",
+                "timeFrame": "07:00 PM - 08:00 PM"
+            },
+            {
+                "setTimeId": "23160",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2016/10/11160710/main-150x150.jpg",
+                "name": "Luttrell",
+                "timeFrame": "08:00 PM - 09:00 PM"
+            },
+            {
+                "setTimeId": "23156",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/10225035/4q6QDcXssDKrFafCWSOynzd8pIsFQKrv4MmCGrlR-150x150.jpeg",
+                "name": "Lee Foss",
+                "timeFrame": "09:00 PM - 10:00 PM"
+            },
+            {
+                "setTimeId": "23151",
+                "dataTime": "70",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2020/08/22011315/e59abba6-32d4-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "John Summit",
+                "timeFrame": "10:00 PM - 11:10 PM"
+            },
+            {
+                "dataTime": "25"
+            },
+            {
+                "setTimeId": "23191",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2016/08/22051908/87eec07e-1b64-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Zhu",
+                "timeFrame": "11:35 PM - 12:50 AM"
+            },
+            {
+                "dataTime": "25"
+            },
+            {
+                "setTimeId": "23170",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2016/04/16192046/LWCaVJx7OZBLmCwYGroe55EDJFa8FWOk3mecIeMN-150x150.jpeg",
+                "name": "Rezz",
+                "timeFrame": "01:15 AM - 02:30 AM"
+            },
+            {
+                "setTimeId": "23190",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/11142018/main-150x150.jpg",
+                "name": "Zeds Dead",
+                "timeFrame": "02:30 AM - 03:30 AM"
+            },
+            {
+                "setTimeId": "23129",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/19183048/9c84293c-310a-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Excision",
+                "timeFrame": "03:30 AM - 04:30 AM"
+            },
+            {
+                "setTimeId": "23165",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2020/08/14153932/a8be088a-d5c6-11ea-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Moore Kismet",
+                "timeFrame": "04:30 AM - 05:30 AM"
+            }
+        ],
+        "Neon Garden": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "23166",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/04/19202118/rE2CBeYjCxKbeV0lFqbVD5s2aB2YfJZS8UX6iGxo-150x150.jpeg",
+                "name": "Ms. Mada",
+                "timeFrame": "07:00 PM - 08:00 PM"
+            },
+            {
+                "setTimeId": "23100",
+                "dataTime": "90",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/05/10213202/14d93dea-b1d7-11eb-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Avision",
+                "timeFrame": "08:00 PM - 09:30 PM"
+            },
+            {
+                "setTimeId": "23144",
+                "dataTime": "120",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/12/17233523/qr5AqlGGXPHWBKdXWAIDpWGJCbIjBQBkZH9weiO9-150x150.jpeg",
+                "name": "Ilario Alicante",
+                "timeFrame": "09:30 PM - 11:30 PM"
+            },
+            {
+                "setTimeId": "23089",
+                "dataTime": "90",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/05/10212341/dc571092-b1d5-11eb-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Anfisa Letyago",
+                "timeFrame": "11:30 PM - 01:00 AM"
+            },
+            {
+                "setTimeId": "23078",
+                "dataTime": "180",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/30195416/10bb801c-39bb-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Adam Beyer",
+                "timeFrame": "01:00 AM - 04:00 AM"
+            },
+            {
+                "setTimeId": "23111",
+                "dataTime": "90",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/06/02231811/106c4be8-ca6e-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Deborah De Luca",
+                "timeFrame": "04:00 AM - 05:30 AM"
+            }
+        ],
+        "Basspod": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "23116",
+                "dataTime": "50",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/11/11043505/ylMVTNpSzqNTTFEsLeqpOpdJQA0ihvHPi9AIb3gt-150x150.jpeg",
+                "name": "Definitive B2B Replicant",
+                "timeFrame": "07:00 PM - 07:50 PM"
+            },
+            {
+                "setTimeId": "23157",
+                "dataTime": "50",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/10/23232746/cqkW3tR7fNZDL06trQUlwb3sWFsAcVf1Hv360cy4-150x150.jpeg",
+                "name": "Level Up",
+                "timeFrame": "07:50 PM - 08:40 PM"
+            },
+            {
+                "setTimeId": "23132",
+                "dataTime": "50",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/11/11043501/cSYUygsAiAbxYjnJHoLZwvpeVKU2geAHhmEdk25u-150x150.jpeg",
+                "name": "Friction B2B Kanine",
+                "timeFrame": "08:40 PM - 09:30 PM"
+            },
+            {
+                "setTimeId": "23172",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/12194102/oN8lQu0FC6ZkrKosWPZToPjbGyBeagQqCO2XDHvb-150x150.jpeg",
+                "name": "Rusko",
+                "timeFrame": "09:30 PM - 10:30 PM"
+            },
+            {
+                "setTimeId": "23077",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/03/21182803/Om2NIMNYVFDFeYDqWzskyXqj4TVU1dt54ReI5let-150x150.jpeg",
+                "name": "A.M.C",
+                "timeFrame": "10:30 PM - 11:30 PM"
+            },
+            {
+                "setTimeId": "23182",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2016/07/16024937/hqDysep4A0nPj4Wnle9V8H8Kb6g2MhLqmqYr4S2t-150x150.jpeg",
+                "name": "Virtual Riot",
+                "timeFrame": "11:30 PM - 12:30 AM"
+            },
+            {
+                "setTimeId": "23158",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/19214527/TRSMg0rc3Y3N7ka0opw6UfbR4xnGFC3GNoGsAL17-150x150.jpeg",
+                "name": "Liquid Stranger",
+                "timeFrame": "12:30 AM - 01:30 AM"
+            },
+            {
+                "setTimeId": "23177",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/11/11043458/0aAEvNdIecrOFVKoBpoAy6ybm3hBWG3xaDdolF2v-150x150.jpeg",
+                "name": "Subtronics B2B Boogie T",
+                "timeFrame": "01:30 AM - 02:30 AM"
+            },
+            {
+                "setTimeId": "23192",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/06233720/ynYtzY3CWMDm3u9QZKfAepuj7cNwuAXVNIAOKU4y-150x150.jpeg",
+                "name": "Zomboy",
+                "timeFrame": "02:30 AM - 03:30 AM"
+            },
+            {
+                "setTimeId": "23099",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/04/07013053/23c4dd26-270e-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "ATLiens",
+                "timeFrame": "03:30 AM - 04:30 AM"
+            },
+            {
+                "setTimeId": "23128",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2016/05/30181208/JHO804bOU9zidZwpLHcIy2GFnZbN7zwbJN376FnK-150x150.jpeg",
+                "name": "Eprom",
+                "timeFrame": "04:30 AM - 05:30 AM"
+            }
+        ],
+        "Wasteland": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "23141",
+                "dataTime": "50",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/11/11043509/nX5fzXSiSq6yBHiED3IdIH1lZDHEAdGkfIy8zSyg-150x150.jpeg",
+                "name": "Hpnotic B2B Lucky Rabbit",
+                "timeFrame": "07:00 PM - 07:50 PM"
+            },
+            {
+                "setTimeId": "23153",
+                "dataTime": "50",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/10/09181910/816b46e6-4189-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "KAMI",
+                "timeFrame": "07:50 PM - 08:40 PM"
+            },
+            {
+                "setTimeId": "23110",
+                "dataTime": "50",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/25221053/JpvBKNps1ez7w9PTjMO4kelM526YFPPiV1GR8hr2-150x150.jpeg",
+                "name": "Darksiderz",
+                "timeFrame": "08:40 PM - 09:30 PM"
+            },
+            {
+                "setTimeId": "23125",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/01/09004438/Ie8j8vujniiOcwbB6Wx6X5siiM8qAieL97Zd4IUL-150x150.jpeg",
+                "name": "Dr Phunk",
+                "timeFrame": "09:30 PM - 10:30 PM"
+            },
+            {
+                "setTimeId": "23187",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/11142843/main-150x150.jpg",
+                "name": "Wildstylez",
+                "timeFrame": "10:30 PM - 11:30 PM"
+            },
+            {
+                "setTimeId": "23102",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/12/16230518/haYbDlLpd64Dm1LgwauVzCRRdsTkm6q2PzWz16be-150x150.jpeg",
+                "name": "Ben Nicky presents Xtreme",
+                "timeFrame": "11:30 PM - 12:30 AM"
+            },
+            {
+                "setTimeId": "23122",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/12014711/main-150x150.jpg",
+                "name": "DJ Isaac",
+                "timeFrame": "12:30 AM - 01:30 AM"
+            },
+            {
+                "setTimeId": "23139",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/07000700/KFCmeISeE3A2m6KKAAbqkOVVvMkyLL4sOgaM20OV-150x150.jpeg",
+                "name": "Headhunterz",
+                "timeFrame": "01:30 AM - 02:30 AM"
+            },
+            {
+                "setTimeId": "23674",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/01/07005628/z712Kdois90o9wusPZmbUEC0eZxsUQ9WDPbSIB5f-150x150.jpeg",
+                "name": "Sub Zero Project",
+                "timeFrame": "02:30 AM - 03:30 AM"
+            },
+            {
+                "setTimeId": "23108",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/08/19212527/w9HIRFn4neZbEd9oIw7CHMx8iULvEis8Uefw4Lzy-150x150.jpeg",
+                "name": "D-Sturb",
+                "timeFrame": "03:30 AM - 04:30 AM"
+            },
+            {
+                "setTimeId": "23119",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/04/30003439/A0jEjJphwC80niJoGjFanOKp4sIjkSrteDJFIxaw-150x150.jpeg",
+                "name": "DJ AniMe",
+                "timeFrame": "04:30 AM - 05:30 AM"
+            }
+        ],
+        "Quantum Valley": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "23175",
+                "dataTime": "120",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/03/07214927/672042bc-9e60-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "SCHALA",
+                "timeFrame": "07:00 PM - 09:00 PM"
+            },
+            {
+                "setTimeId": "23138",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/01/01235923/73fb42de-2313-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "HANA",
+                "timeFrame": "09:00 PM - 10:00 PM"
+            },
+            {
+                "setTimeId": "23164",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/19213443/main-150x150.jpg",
+                "name": "Mat Zo",
+                "timeFrame": "10:00 PM - 11:00 PM"
+            },
+            {
+                "setTimeId": "23179",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/30191434/UlFNgdNzmS9BfrSxUYtBrEgvkTxc1e6ThyUx5jh1-150x150.jpeg",
+                "name": "Tritonal",
+                "timeFrame": "11:00 PM - 12:00 AM"
+            },
+            {
+                "setTimeId": "23084",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/05001129/9UCfPSAESDZxxT8VZFW7FNVh7hiR6B5osfObowS6-150x150.jpeg",
+                "name": "Andrew Rayel",
+                "timeFrame": "12:00 AM - 01:00 AM"
+            },
+            {
+                "setTimeId": "23162",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/07/11150209/main-150x150.jpg",
+                "name": "MaRLo",
+                "timeFrame": "01:00 AM - 02:00 AM"
+            },
+            {
+                "setTimeId": "23093",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/29181254/c73c96a0-af8b-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "ATB",
+                "timeFrame": "02:00 AM - 03:00 AM"
+            },
+            {
+                "setTimeId": "23096",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/01/03183005/0be46f64-6cc3-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "atDusk",
+                "timeFrame": "03:00 AM - 04:00 AM"
+            },
+            {
+                "setTimeId": "23169",
+                "dataTime": "90",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/07/06222529/000e3fec-dea9-11eb-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Renegade System",
+                "timeFrame": "04:00 AM - 05:30 AM"
+            }
+        ],
+        "Stereo Bloom": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "23131",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/03/10232714/6c50677e-a0c9-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Francis Mercier",
+                "timeFrame": "07:00 PM - 08:00 PM"
+            },
+            {
+                "setTimeId": "23106",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/03/07205743/2a1415f8-9e59-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Coco &amp; Breezy",
+                "timeFrame": "08:00 PM - 09:00 PM"
+            },
+            {
+                "setTimeId": "23113",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/08/09232626/1b488c2e-f969-11eb-b991-0ee6b8365494-1-150x150.jpg",
+                "name": "Deeper Purpose",
+                "timeFrame": "09:00 PM - 10:00 PM"
+            },
+            {
+                "setTimeId": "23183",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/03/10234945/a0dbb842-a0cc-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Wade",
+                "timeFrame": "10:00 PM - 11:00 PM"
+            },
+            {
+                "setTimeId": "23163",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/02/08190051/yJdMT4pX5XCDSercTSdKgurzV9zdxu59AHglZtJN-150x150.jpeg",
+                "name": "Martin Ikin",
+                "timeFrame": "11:00 PM - 12:00 AM"
+            },
+            {
+                "setTimeId": "23181",
+                "dataTime": "90",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/12/11043514/xNhRPElwtRyIVSSOEfy8wO7fHqqwDlTcr3d2eRnZ-150x150.jpeg",
+                "name": "Vintage Culture B2B James Hype",
+                "timeFrame": "12:00 AM - 01:30 AM"
+            },
+            {
+                "setTimeId": "23173",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2020/09/29230411/ed28634a-02a7-11eb-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Sam Divine",
+                "timeFrame": "01:30 AM - 02:30 AM"
+            },
+            {
+                "setTimeId": "23135",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/05/23181825/ycjXmaCzhJsj5NIAYjDgJ23XLlVdTCVrEQBsLZaQ-150x150.jpeg",
+                "name": "Gene Farris",
+                "timeFrame": "02:30 AM - 03:30 AM"
+            },
+            {
+                "setTimeId": "23159",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/03/23234443/QkTFhjrOD58anEowXN6YKP20UzJK69SJAq6U0t92-150x150.jpeg",
+                "name": "Lucati",
+                "timeFrame": "03:30 AM - 04:30 AM"
+            },
+            {
+                "setTimeId": "23161",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/05/16015632/YxAqtWpzlqM10nJqmIBH8ZCzRKKLWykjXuzcp83c-150x150.jpeg",
+                "name": "Manolo",
+                "timeFrame": "04:30 AM - 05:30 AM"
+            }
+        ],
+        "Bionic Jungle": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "24075",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2020/02/15001810/wPfpOS5ggImoboB7qPctXStCgu7yUOgeICOzjaFc-150x150.jpeg",
+                "name": "Thunderpony",
+                "timeFrame": "07:00 PM - 08:15 PM"
+            },
+            {
+                "setTimeId": "24073",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/11/03211316/c863a924-3cea-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Colored Craig",
+                "timeFrame": "08:15 PM - 09:30 PM"
+            },
+            {
+                "setTimeId": "24070",
+                "dataTime": "120",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/07/09224311/a9ob1y3Ex4cjWUafDtFc5CHYYQ2ZBy0MGTksPAsm-150x150.jpeg",
+                "name": "DJ Heather",
+                "timeFrame": "09:30 PM - 11:30 PM"
+            },
+            {
+                "setTimeId": "24068",
+                "dataTime": "120",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/05/11003244/d1f34b5a-d0c1-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Derrick Carter",
+                "timeFrame": "11:30 PM - 01:30 AM"
+            },
+            {
+                "setTimeId": "24066",
+                "dataTime": "120",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/04/19202118/rE2CBeYjCxKbeV0lFqbVD5s2aB2YfJZS8UX6iGxo-150x150.jpeg",
+                "name": "Ms. Mada",
+                "timeFrame": "01:30 AM - 03:30 AM"
+            },
+            {
+                "setTimeId": "24063",
+                "dataTime": "120",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/10225035/4q6QDcXssDKrFafCWSOynzd8pIsFQKrv4MmCGrlR-150x150.jpeg",
+                "name": "Lee Foss",
+                "timeFrame": "03:30 AM - 05:30 AM"
+            }
+        ],
+        "Parliament Art Car": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "24084",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2016/08/10235732/main-150x150.jpg",
+                "name": "Assembly",
+                "timeFrame": "07:00 PM - 08:15 PM"
+            },
+            {
+                "setTimeId": "24142",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/05/12175825/6b020af6-d21c-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "5GØDZ",
+                "timeFrame": "08:15 PM - 09:30 PM"
+            },
+            {
+                "setTimeId": "24159",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2015/02/11012537/mWT1dqTT1NMyEmUvJTXjhhtLmbMZjVuJApCfF4Oq-150x150.jpeg",
+                "name": "Special Guest",
+                "timeFrame": "09:30 PM - 10:45 PM"
+            },
+            {
+                "setTimeId": "24082",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/20175011/21dcf03c-31ce-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "12th Planet",
+                "timeFrame": "10:45 PM - 12:00 AM"
+            },
+            {
+                "setTimeId": "24081",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/19005316/BXh1NTQwQnfG7IUZFu61padziCpK5bG3ShiRQAKJ-150x150.jpeg",
+                "name": "Bunny (Rabbit In The Moon)",
+                "timeFrame": "12:00 AM - 01:00 AM"
+            },
+            {
+                "setTimeId": "24080",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/06/15211340/b4580bc0-2dfc-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Golf Clap",
+                "timeFrame": "01:00 AM - 02:00 AM"
+            },
+            {
+                "setTimeId": "24079",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/10/14215024/a7c468f0-2d38-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Damon Sharpe",
+                "timeFrame": "02:00 AM - 03:00 AM"
+            },
+            {
+                "setTimeId": "24078",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/10/15020208/d26b22f6-2d5b-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "DVRKO",
+                "timeFrame": "03:00 AM - 04:15 AM"
+            },
+            {
+                "setTimeId": "24077",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/11142018/main-150x150.jpg",
+                "name": "Zeds Dead (After Hours Set)",
+                "timeFrame": "04:15 AM - 05:30 AM"
+            }
+        ],
+        "Forest House Art Car": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "24092",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/05/16235618/b69db5dc-d573-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "ACIDTWIINS",
+                "timeFrame": "07:00 PM - 08:15 PM"
+            },
+            {
+                "setTimeId": "24091",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/05/10065301/c0dd5f20-d02d-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Kaleena Zanders",
+                "timeFrame": "08:15 PM - 09:30 PM"
+            },
+            {
+                "setTimeId": "24090",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2020/09/29230411/ed28634a-02a7-11eb-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Sam Divine",
+                "timeFrame": "09:30 PM - 10:45 PM"
+            },
+            {
+                "setTimeId": "24089",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/01/01235923/73fb42de-2313-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "HANA",
+                "timeFrame": "10:45 PM - 12:00 AM"
+            },
+            {
+                "setTimeId": "24088",
+                "dataTime": "90",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/03/07205743/2a1415f8-9e59-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Coco &amp; Breezy",
+                "timeFrame": "12:00 AM - 01:30 AM"
+            },
+            {
+                "setTimeId": "24087",
+                "dataTime": "90",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/04/03052245/12f91ccc-db9c-11eb-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "LP Giobbi",
+                "timeFrame": "01:30 AM - 03:00 AM"
+            },
+            {
+                "setTimeId": "24086",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/01/12105811/78e34548-7396-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Baby Weight",
+                "timeFrame": "03:00 AM - 04:15 AM"
+            },
+            {
+                "setTimeId": "24085",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/01/18214249/835e388c-78a7-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Bexxie",
+                "timeFrame": "04:15 AM - 05:30 AM"
+            }
+        ],
+        "Rynobus": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "24100",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/11/16003651/f85ae776-3c38-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Tsu Nami",
+                "timeFrame": "07:00 PM - 08:15 PM"
+            },
+            {
+                "setTimeId": "24099",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/08/17045714/80f6e832-ff17-11eb-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Morgin Madison",
+                "timeFrame": "08:15 PM - 09:30 PM"
+            },
+            {
+                "setTimeId": "24098",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/03/09182726/9de54960-418a-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Wenzday",
+                "timeFrame": "09:30 PM - 10:45 PM"
+            },
+            {
+                "setTimeId": "24097",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/11/16184816/WRQk9yiCYeMJNN0nz5kCDFxkSbF7l1a7yo27LUwb-150x150.jpeg",
+                "name": "No Mana B2B Eddie",
+                "timeFrame": "10:45 PM - 12:00 AM"
+            },
+            {
+                "setTimeId": "24096",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/02/11015919/256fb93c-8ade-11ec-b991-0ee6b8365494-1-150x150.jpg",
+                "name": "Diamond Dallas Tex",
+                "timeFrame": "12:00 AM - 01:15 AM"
+            },
+            {
+                "setTimeId": "24095",
+                "dataTime": "105",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/03/07210752/97706a92-9e5a-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "IMANU",
+                "timeFrame": "01:15 AM - 03:00 AM"
+            },
+            {
+                "setTimeId": "24094",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/05/10224419/ab338692-d0b2-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "LUPA",
+                "timeFrame": "03:00 AM - 04:15 AM"
+            },
+            {
+                "setTimeId": "24093",
+                "dataTime": "75",
+                "name": "SVNF8",
+                "timeFrame": "04:15 AM - 05:30 AM"
+            }
+        ],
+        "Boombox Art Car": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "24109",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/10/14233322/13592dae-2d47-11ec-b991-0ee6b8365494-1-150x150.jpg",
+                "name": "KsoFresKo",
+                "timeFrame": "07:00 PM - 08:15 PM"
+            },
+            {
+                "setTimeId": "24108",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2016/06/03052246/07a31d1a-caa1-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Chris Jay",
+                "timeFrame": "08:15 PM - 09:30 PM"
+            },
+            {
+                "setTimeId": "24107",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/10/15061151/b823d726-2d7e-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "NES",
+                "timeFrame": "09:30 PM - 10:45 PM"
+            },
+            {
+                "setTimeId": "24106",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/06/18193910/044b245a-304b-11ec-b991-0ee6b8365494-1-150x150.jpg",
+                "name": "FlashGang",
+                "timeFrame": "10:45 PM - 12:00 AM"
+            },
+            {
+                "setTimeId": "24105",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/03/04232431/3rFBmA1ktyepH9oVbNfWcssFRzA8CTOsd8vwxkjw-150x150.jpeg",
+                "name": "Morelia",
+                "timeFrame": "12:00 AM - 01:00 AM"
+            },
+            {
+                "setTimeId": "24104",
+                "dataTime": "60",
+                "name": "Party Dads",
+                "timeFrame": "01:00 AM - 02:00 AM"
+            },
+            {
+                "setTimeId": "24103",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/10/15002945/ef506be0-2d4e-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Skonka",
+                "timeFrame": "02:00 AM - 03:00 AM"
+            },
+            {
+                "setTimeId": "24102",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2018/05/01022032/eWNnPdknEHTpaaI02SVZGDymgvwKgVhzi3kOqu56-150x150.jpeg",
+                "name": "Fantom Freq",
+                "timeFrame": "03:00 AM - 04:15 AM"
+            },
+            {
+                "setTimeId": "24101",
+                "dataTime": "75",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/13211125/aQ58omALOjJngYVvVLGrEx4FJggssZ7Tva2mvijN-150x150.jpeg",
+                "name": "Trouble",
+                "timeFrame": "04:15 AM - 05:30 AM"
+            }
+        ],
+        "Corona Stage": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "24118",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/10/15012152/38e1cb26-2d56-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Taylor Jaymin",
+                "timeFrame": "07:00 PM - 08:00 PM"
+            },
+            {
+                "setTimeId": "24117",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2014/05/11145052/main-150x150.jpg",
+                "name": "Baggi",
+                "timeFrame": "08:00 PM - 09:00 PM"
+            },
+            {
+                "setTimeId": "24116",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2020/11/24002522/aed1e838-0471-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Bingewatch",
+                "timeFrame": "09:00 PM - 10:00 PM"
+            },
+            {
+                "setTimeId": "24115",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/10/15210518/82e3a85c-2dfb-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Alexandar Smash",
+                "timeFrame": "10:00 PM - 11:00 PM"
+            },
+            {
+                "setTimeId": "24114",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/06/22200359/ead05be8-d394-11eb-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Reaper",
+                "timeFrame": "11:00 PM - 12:00 AM"
+            },
+            {
+                "setTimeId": "24113",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2021/10/14221045/881aebd4-2d3b-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Torren Foot",
+                "timeFrame": "12:00 AM - 01:00 AM"
+            },
+            {
+                "setTimeId": "24112",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2020/02/05233342/b783e9cc-cccb-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Nostalgix",
+                "timeFrame": "01:00 AM - 02:00 AM"
+            },
+            {
+                "setTimeId": "24111",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2016/01/16184823/Dhfeyaz3tUQ0tKHt8byJt7hnfvQeSsneF2huKmxJ-150x150.jpeg",
+                "name": "Wenzday B2B Dustycloud B2B Special Guest",
+                "timeFrame": "02:00 AM - 03:00 AM"
+            },
+            {
+                "setTimeId": "24110",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/05/12184655/d74ca7d2-d223-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Blake Webber",
+                "timeFrame": "03:00 AM - 04:00 AM"
+            }
+        ],
+        "Allegiant Rave Hangar": [
+            {
+                "dataTime": "120"
+            },
+            {
+                "setTimeId": "24125",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/05/10231618/1462e9ba-d0b7-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Maanic",
+                "timeFrame": "07:00 PM - 08:00 PM"
+            },
+            {
+                "setTimeId": "24124",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/05/09152922/ba813efc-cfac-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Wave Point",
+                "timeFrame": "08:00 PM - 09:00 PM"
+            },
+            {
+                "setTimeId": "24123",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/01/12105811/78e34548-7396-11ec-954e-0ecc81f4ee58-150x150.jpg",
+                "name": "Baby Weight",
+                "timeFrame": "09:00 PM - 10:00 PM"
+            },
+            {
+                "setTimeId": "24122",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2017/03/11161919/main-150x150.jpg",
+                "name": "Truth x Lies",
+                "timeFrame": "10:00 PM - 11:00 PM"
+            },
+            {
+                "setTimeId": "24121",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2022/03/07204814/aa91fada-9e57-11ec-b991-0ee6b8365494-150x150.jpg",
+                "name": "Chapter &amp; Verse",
+                "timeFrame": "11:00 PM - 12:00 AM"
+            },
+            {
+                "setTimeId": "24120",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/02/08212004/a81O7MRSYBwQmlQSfWbZKoRkQ9cCdkbvunSYyhR9-150x150.jpeg",
+                "name": "Yolanda Be Cool",
+                "timeFrame": "12:00 AM - 01:00 AM"
+            },
+            {
+                "setTimeId": "24119",
+                "dataTime": "60",
+                "image": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/2019/02/08190051/yJdMT4pX5XCDSercTSdKgurzV9zdxu59AHglZtJN-150x150.jpeg",
+                "name": "Martin Ikin",
+                "timeFrame": "01:00 AM - 02:00 AM"
+            }
+        ]
+    }
+}
