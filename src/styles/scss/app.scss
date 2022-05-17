@@ -1,0 +1,9 @@
+@import "./base";
+
+.active {
+    background-color: lighten(#282c34, 30%);
+}
+
+.clickable {
+    cursor: pointer;
+}

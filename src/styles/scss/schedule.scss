@@ -1,0 +1,91 @@
+.schedule-wrapper {
+    overflow: hidden;
+
+    .schedule {
+        display: flex;
+        width: 100%;
+        
+        .schedule__sidebar {
+            &::before {
+                content: "";
+                display: block;
+                background-color: #000;
+                height: 4.25em;
+                width: 100%;
+            }
+
+            .schedule__label { 
+                display: flex;
+                height: 4.25em;
+                align-items: center;
+                border: 1px solid black;
+            }
+        }
+
+        .schedule__scrollable {
+            flex: 1;
+            overflow-x: auto;
+            
+            .schedule__row {
+                display: inline-flex;
+                height: 4.25em;
+                
+                @for $i from 1 through 400 {
+                    [data-time="#{$i}"] {
+                        width: 4px * $i;
+                    }
+                }
+
+                > div {
+                    border: 1px solid #999;
+                }
+
+                .schedule__header {
+                    background-color: #000;
+                    color: #FFF;
+                    align-items: stretch;
+                    justify-content: center;
+                }
+
+                .set-block {
+                    position: relative;
+                    display: flex;
+                    flex-wrap: nowrap;
+                    background-color: #444;
+                    flex-shrink: 0;
+
+                    .set-block__text {
+                        flex: 1;
+                        overflow: hidden;
+                        padding: .25em;
+
+                        img {
+                            display: block;
+                            height: 3em;
+                            width: auto;
+                            padding-right: .5em;
+                        }
+
+                        span {
+                            position: relative;
+                            display: block;
+                            overflow: hidden;
+                            white-space: nowrap;
+                            text-overflow: ellipsis;
+                        }
+                    }
+
+                    &:hover {
+                        .set-block__text {
+                            position: relative;
+                            overflow: visible;
+                            background-color: #000;
+                            z-index: 9;
+                            width: 100%;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
